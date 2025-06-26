@@ -35,11 +35,11 @@ const plugins = [
   terser(),
   postcss({
     extensions: ['.css', '.scss'],
-    extract: path.resolve(__dirname, '../src/wp-content/themes/wpresskit/style.css'), // Cria um arquivo CSS separado
+    extract: path.resolve(__dirname, '../style.css'), // Cria um arquivo CSS separado
     minimize: true, // Minimize o CSS
   }),
   sass({
-    output: path.resolve(__dirname, "../src/wp-content/themes/wpresskit/style.css")
+    output: path.resolve(__dirname, "../style.css")
   }),
   alias({
     entries: [
@@ -91,7 +91,7 @@ if (allowBrowsersync) {
 export default {
   input: 'src/js/index.js',
   output: {
-    file: path.resolve(__dirname, "../src/wp-content/themes/wpresskit/bundle.js"),
+    file: path.resolve(__dirname, "../bundle.js"),
     format: 'iife',
     globals: {
       jquery: '$', // Define jQuery como uma variável global
