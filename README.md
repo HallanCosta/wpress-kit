@@ -115,6 +115,25 @@ gh workflow run main.yml --ref main
 gh run list --workflow=main.yml
 ```
 
+# Migration URL WordPress
+
+Para migrar URLs do WordPress (de produção para staging/local), execute os seguintes comandos SQL no banco de dados:
+
+```sql
+-- Substitua 'https://algumsiteparamigrarlinks.com.br' pela URL de origem
+-- Substitua 'http://localhost:3001' pela URL de destino
+
+UPDATE wp_posts SET guid = REPLACE(guid,'https://algumsiteparamigrarlinks.com.br','http://localhost:3001') WHERE guid LIKE '%https://algumsiteparamigrarlinks.com.br%';
+
+UPDATE wp_posts SET post_content = REPLACE(post_content,'https://algumsiteparamigrarlinks.com.br','http://localhost:3001') WHERE post_content LIKE '%https://algumsiteparamigrarlinks.com.br%';
+
+UPDATE wp_options SET option_value = REPLACE(option_value,'https://algumsiteparamigrarlinks.com.br','http://localhost:3001') WHERE option_value LIKE '%https://algumsiteparamigrarlinks.com.br%';
+
+UPDATE wp_users SET user_url = REPLACE(user_url,'https://algumsiteparamigrarlinks.com.br','http://localhost:3001') WHERE user_url LIKE '%https://algumsiteparamigrarlinks.com.br%';
+```
+
+> **Nota:** O prefixo das tabelas pode variar (wp_ é o padrão). Ajuste conforme o prefixo do seu projeto.
+
 # Duplicator
 
 ### To Install Using Duplicator
