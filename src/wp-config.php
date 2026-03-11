@@ -155,10 +155,11 @@ $table_prefix = 'wp_';
  */
 
 if ($_SERVER['HTTPS'] === 'on') {  
-  $_SERVER['HTTPS'] = 'on';
 } else {
   $_SERVER['HTTPS'] = 'off';
 }
+
+// $_SERVER['HTTPS'] = 'on';
 
 define('WP_DEBUG', filter_var($_ENV['WP_DEBUG'], FILTER_VALIDATE_BOOLEAN));
 define('WP_DEBUG_LOG', filter_var($_ENV['WP_DEBUG_LOG'], FILTER_VALIDATE_BOOLEAN));

@@ -1,0 +1,806 @@
+[07-May-2025 14:58:25 UTC] PHP Warning:  copy(/var/www/html/wp-content/plugins/woocommerce-openpix/includes/config/config.php): failed to open stream: Permission denied in /var/www/html/wp-content/plugins/woocommerce-openpix/includes/class-wc-openpix-pix.php on line 302
+[07-May-2025 14:58:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/wp-content/plugins/woocommerce-openpix/includes/class-wc-openpix-pix.php:302) in /var/www/html/wp-includes/functions.php on line 7168
+[07-May-2025 14:58:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/wp-content/plugins/woocommerce-openpix/includes/class-wc-openpix-pix.php:302) in /var/www/html/wp-includes/functions.php on line 7144
+[07-May-2025 14:58:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/wp-content/plugins/woocommerce-openpix/includes/class-wc-openpix-pix.php:302) in /var/www/html/wp-admin/admin-header.php on line 14
+[07-May-2025 14:58:26 UTC] PHP Warning:  copy(/var/www/html/wp-content/plugins/woocommerce-openpix/includes/config/config.php): failed to open stream: Permission denied in /var/www/html/wp-content/plugins/woocommerce-openpix/includes/class-wc-openpix-pix.php on line 302
+[07-May-2025 14:58:26 UTC] PHP Warning:  copy(/var/www/html/wp-content/plugins/woocommerce-openpix/includes/config/config.php): failed to open stream: Permission denied in /var/www/html/wp-content/plugins/woocommerce-openpix/includes/class-wc-openpix-pix.php on line 302
+[07-May-2025 14:58:26 UTC] PHP Warning:  copy(/var/www/html/wp-content/plugins/woocommerce-openpix/includes/config/config.php): failed to open stream: Permission denied in /var/www/html/wp-content/plugins/woocommerce-openpix/includes/class-wc-openpix-pix.php on line 302
+[07-May-2025 14:58:26 UTC] PHP Warning:  copy(/var/www/html/wp-content/plugins/woocommerce-openpix/includes/config/config.php): failed to open stream: Permission denied in /var/www/html/wp-content/plugins/woocommerce-openpix/includes/class-wc-openpix-pix.php on line 302
+[07-May-2025 14:58:26 UTC] PHP Warning:  copy(/var/www/html/wp-content/plugins/woocommerce-openpix/includes/config/config.php): failed to open stream: Permission denied in /var/www/html/wp-content/plugins/woocommerce-openpix/includes/class-wc-openpix-pix.php on line 302
+[07-May-2025 14:58:26 UTC] PHP Warning:  copy(/var/www/html/wp-content/plugins/woocommerce-openpix/includes/config/config.php): failed to open stream: Permission denied in /var/www/html/wp-content/plugins/woocommerce-openpix/includes/class-wc-openpix-pix.php on line 302
+[07-May-2025 14:58:26 UTC] PHP Warning:  copy(/var/www/html/wp-content/plugins/woocommerce-openpix/includes/config/config.php): failed to open stream: Permission denied in /var/www/html/wp-content/plugins/woocommerce-openpix/includes/class-wc-openpix-pix.php on line 302
+[07-May-2025 14:58:26 UTC] PHP Warning:  copy(/var/www/html/wp-content/plugins/woocommerce-openpix/includes/config/config.php): failed to open stream: Permission denied in /var/www/html/wp-content/plugins/woocommerce-openpix/includes/class-wc-openpix-pix.php on line 302
+[07-May-2025 14:59:27 UTC] PHP Warning:  copy(/var/www/html/wp-content/plugins/woocommerce-openpix/includes/config/config.php): failed to open stream: Permission denied in /var/www/html/wp-content/plugins/woocommerce-openpix/includes/class-wc-openpix-pix.php on line 302
+[07-May-2025 15:04:21 UTC] PHP Warning:  copy(/var/www/html/wp-content/plugins/woocommerce-openpix/includes/config/config.php): failed to open stream: Permission denied in /var/www/html/wp-content/plugins/woocommerce-openpix/includes/class-wc-openpix-pix.php on line 302
+[07-May-2025 15:04:21 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/wp-content/plugins/woocommerce-openpix/includes/class-wc-openpix-pix.php:302) in /var/www/html/wp-includes/functions.php on line 7168
+[07-May-2025 15:04:21 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/wp-content/plugins/woocommerce-openpix/includes/class-wc-openpix-pix.php:302) in /var/www/html/wp-includes/functions.php on line 7144
+[07-May-2025 15:04:21 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/wp-content/plugins/woocommerce-openpix/includes/class-wc-openpix-pix.php:302) in /var/www/html/wp-admin/admin-header.php on line 14
+[07-May-2025 15:04:24 UTC] PHP Warning:  copy(/var/www/html/wp-content/plugins/woocommerce-openpix/includes/config/config.php): failed to open stream: Permission denied in /var/www/html/wp-content/plugins/woocommerce-openpix/includes/class-wc-openpix-pix.php on line 302
+[07-May-2025 15:04:24 UTC] PHP Warning:  copy(/var/www/html/wp-content/plugins/woocommerce-openpix/includes/config/config.php): failed to open stream: Permission denied in /var/www/html/wp-content/plugins/woocommerce-openpix/includes/class-wc-openpix-pix.php on line 302
+[07-May-2025 15:04:24 UTC] PHP Warning:  copy(/var/www/html/wp-content/plugins/woocommerce-openpix/includes/config/config.php): failed to open stream: Permission denied in /var/www/html/wp-content/plugins/woocommerce-openpix/includes/class-wc-openpix-pix.php on line 302
+[07-May-2025 15:04:24 UTC] PHP Warning:  copy(/var/www/html/wp-content/plugins/woocommerce-openpix/includes/config/config.php): failed to open stream: Permission denied in /var/www/html/wp-content/plugins/woocommerce-openpix/includes/class-wc-openpix-pix.php on line 302
+[07-May-2025 15:04:24 UTC] PHP Warning:  copy(/var/www/html/wp-content/plugins/woocommerce-openpix/includes/config/config.php): failed to open stream: Permission denied in /var/www/html/wp-content/plugins/woocommerce-openpix/includes/class-wc-openpix-pix.php on line 302
+[07-May-2025 15:04:24 UTC] PHP Warning:  copy(/var/www/html/wp-content/plugins/woocommerce-openpix/includes/config/config.php): failed to open stream: Permission denied in /var/www/html/wp-content/plugins/woocommerce-openpix/includes/class-wc-openpix-pix.php on line 302
+[07-May-2025 15:04:24 UTC] PHP Warning:  copy(/var/www/html/wp-content/plugins/woocommerce-openpix/includes/config/config.php): failed to open stream: Permission denied in /var/www/html/wp-content/plugins/woocommerce-openpix/includes/class-wc-openpix-pix.php on line 302
+[07-May-2025 15:04:24 UTC] PHP Warning:  copy(/var/www/html/wp-content/plugins/woocommerce-openpix/includes/config/config.php): failed to open stream: Permission denied in /var/www/html/wp-content/plugins/woocommerce-openpix/includes/class-wc-openpix-pix.php on line 302
+[07-May-2025 15:04:24 UTC] PHP Warning:  copy(/var/www/html/wp-content/plugins/woocommerce-openpix/includes/config/config.php): failed to open stream: Permission denied in /var/www/html/wp-content/plugins/woocommerce-openpix/includes/class-wc-openpix-pix.php on line 302
+[07-May-2025 15:04:24 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/wp-content/plugins/woocommerce-openpix/includes/class-wc-openpix-pix.php:302) in /var/www/html/wp-includes/pluggable.php on line 1450
+[07-May-2025 15:04:24 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/wp-content/plugins/woocommerce-openpix/includes/class-wc-openpix-pix.php:302) in /var/www/html/wp-includes/pluggable.php on line 1453
+[07-May-2025 15:07:38 UTC] PHP Warning:  copy(/var/www/html/wp-content/plugins/woocommerce-openpix/includes/config/config.php): failed to open stream: Permission denied in /var/www/html/wp-content/plugins/woocommerce-openpix/includes/class-wc-openpix-pix.php on line 302
+[07-May-2025 15:07:38 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/wp-content/plugins/woocommerce-openpix/includes/class-wc-openpix-pix.php:302) in /var/www/html/wp-includes/functions.php on line 7168
+[07-May-2025 15:07:38 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/wp-content/plugins/woocommerce-openpix/includes/class-wc-openpix-pix.php:302) in /var/www/html/wp-includes/functions.php on line 7144
+[07-May-2025 15:07:38 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/wp-content/plugins/woocommerce-openpix/includes/class-wc-openpix-pix.php:302) in /var/www/html/wp-admin/admin-header.php on line 14
+[07-May-2025 15:07:41 UTC] PHP Warning:  copy(/var/www/html/wp-content/plugins/woocommerce-openpix/includes/config/config.php): failed to open stream: Permission denied in /var/www/html/wp-content/plugins/woocommerce-openpix/includes/class-wc-openpix-pix.php on line 302
+[07-May-2025 15:07:41 UTC] PHP Warning:  copy(/var/www/html/wp-content/plugins/woocommerce-openpix/includes/config/config.php): failed to open stream: Permission denied in /var/www/html/wp-content/plugins/woocommerce-openpix/includes/class-wc-openpix-pix.php on line 302
+[07-May-2025 15:07:41 UTC] PHP Warning:  copy(/var/www/html/wp-content/plugins/woocommerce-openpix/includes/config/config.php): failed to open stream: Permission denied in /var/www/html/wp-content/plugins/woocommerce-openpix/includes/class-wc-openpix-pix.php on line 302
+[07-May-2025 15:07:41 UTC] PHP Warning:  copy(/var/www/html/wp-content/plugins/woocommerce-openpix/includes/config/config.php): failed to open stream: Permission denied in /var/www/html/wp-content/plugins/woocommerce-openpix/includes/class-wc-openpix-pix.php on line 302
+[07-May-2025 15:07:41 UTC] PHP Warning:  copy(/var/www/html/wp-content/plugins/woocommerce-openpix/includes/config/config.php): failed to open stream: Permission denied in /var/www/html/wp-content/plugins/woocommerce-openpix/includes/class-wc-openpix-pix.php on line 302
+[07-May-2025 15:07:41 UTC] PHP Warning:  copy(/var/www/html/wp-content/plugins/woocommerce-openpix/includes/config/config.php): failed to open stream: Permission denied in /var/www/html/wp-content/plugins/woocommerce-openpix/includes/class-wc-openpix-pix.php on line 302
+[07-May-2025 15:07:41 UTC] PHP Warning:  copy(/var/www/html/wp-content/plugins/woocommerce-openpix/includes/config/config.php): failed to open stream: Permission denied in /var/www/html/wp-content/plugins/woocommerce-openpix/includes/class-wc-openpix-pix.php on line 302
+[07-May-2025 15:07:41 UTC] PHP Warning:  copy(/var/www/html/wp-content/plugins/woocommerce-openpix/includes/config/config.php): failed to open stream: Permission denied in /var/www/html/wp-content/plugins/woocommerce-openpix/includes/class-wc-openpix-pix.php on line 302
+[07-May-2025 15:07:41 UTC] PHP Warning:  copy(/var/www/html/wp-content/plugins/woocommerce-openpix/includes/config/config.php): failed to open stream: Permission denied in /var/www/html/wp-content/plugins/woocommerce-openpix/includes/class-wc-openpix-pix.php on line 302
+[07-May-2025 15:07:41 UTC] PHP Warning:  copy(/var/www/html/wp-content/plugins/woocommerce-openpix/includes/config/config.php): failed to open stream: Permission denied in /var/www/html/wp-content/plugins/woocommerce-openpix/includes/class-wc-openpix-pix.php on line 302
+[07-May-2025 15:07:42 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/wp-content/plugins/woocommerce-openpix/includes/class-wc-openpix-pix.php:302) in /var/www/html/wp-includes/pluggable.php on line 1450
+[07-May-2025 15:07:42 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/wp-content/plugins/woocommerce-openpix/includes/class-wc-openpix-pix.php:302) in /var/www/html/wp-includes/pluggable.php on line 1453
+[07-May-2025 15:52:14 UTC] PHP Warning:  copy(/var/www/html/wp-content/plugins/woocommerce-openpix/includes/config/config.php): failed to open stream: Permission denied in /var/www/html/wp-content/plugins/woocommerce-openpix/includes/class-wc-openpix-pix.php on line 302
+[07-May-2025 15:52:14 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/wp-content/plugins/woocommerce-openpix/includes/class-wc-openpix-pix.php:302) in /var/www/html/wp-includes/functions.php on line 7144
+[07-May-2025 15:52:15 UTC] PHP Warning:  copy(/var/www/html/wp-content/plugins/woocommerce-openpix/includes/config/config.php): failed to open stream: Permission denied in /var/www/html/wp-content/plugins/woocommerce-openpix/includes/class-wc-openpix-pix.php on line 302
+[07-May-2025 15:52:15 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/wp-content/plugins/woocommerce-openpix/includes/class-wc-openpix-pix.php:302) in /var/www/html/wp-includes/pluggable.php on line 1450
+[07-May-2025 15:52:15 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/wp-content/plugins/woocommerce-openpix/includes/class-wc-openpix-pix.php:302) in /var/www/html/wp-includes/pluggable.php on line 1453
+[07-May-2025 15:52:35 UTC] PHP Warning:  copy(/var/www/html/wp-content/plugins/woocommerce-openpix/includes/config/config.php): failed to open stream: Permission denied in /var/www/html/wp-content/plugins/woocommerce-openpix/includes/class-wc-openpix-pix.php on line 302
+[07-May-2025 15:52:35 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/wp-content/plugins/woocommerce-openpix/includes/class-wc-openpix-pix.php:302) in /var/www/html/wp-includes/functions.php on line 7168
+[07-May-2025 15:52:35 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/wp-content/plugins/woocommerce-openpix/includes/class-wc-openpix-pix.php:302) in /var/www/html/wp-includes/functions.php on line 7144
+[07-May-2025 15:52:35 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/wp-content/plugins/woocommerce-openpix/includes/class-wc-openpix-pix.php:302) in /var/www/html/wp-admin/admin-header.php on line 14
+[07-May-2025 15:52:36 UTC] PHP Warning:  copy(/var/www/html/wp-content/plugins/woocommerce-openpix/includes/config/config.php): failed to open stream: Permission denied in /var/www/html/wp-content/plugins/woocommerce-openpix/includes/class-wc-openpix-pix.php on line 302
+[07-May-2025 15:52:37 UTC] PHP Warning:  copy(/var/www/html/wp-content/plugins/woocommerce-openpix/includes/config/config.php): failed to open stream: Permission denied in /var/www/html/wp-content/plugins/woocommerce-openpix/includes/class-wc-openpix-pix.php on line 302
+[07-May-2025 15:52:37 UTC] PHP Warning:  copy(/var/www/html/wp-content/plugins/woocommerce-openpix/includes/config/config.php): failed to open stream: Permission denied in /var/www/html/wp-content/plugins/woocommerce-openpix/includes/class-wc-openpix-pix.php on line 302
+[07-May-2025 15:52:37 UTC] PHP Warning:  copy(/var/www/html/wp-content/plugins/woocommerce-openpix/includes/config/config.php): failed to open stream: Permission denied in /var/www/html/wp-content/plugins/woocommerce-openpix/includes/class-wc-openpix-pix.php on line 302
+[07-May-2025 15:52:37 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/wp-content/plugins/woocommerce-openpix/includes/class-wc-openpix-pix.php:302) in /var/www/html/wp-includes/pluggable.php on line 1450
+[07-May-2025 15:52:37 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/wp-content/plugins/woocommerce-openpix/includes/class-wc-openpix-pix.php:302) in /var/www/html/wp-includes/pluggable.php on line 1453
+[07-May-2025 15:52:39 UTC] PHP Warning:  copy(/var/www/html/wp-content/plugins/woocommerce-openpix/includes/config/config.php): failed to open stream: Permission denied in /var/www/html/wp-content/plugins/woocommerce-openpix/includes/class-wc-openpix-pix.php on line 302
+[07-May-2025 15:52:39 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/wp-content/plugins/woocommerce-openpix/includes/class-wc-openpix-pix.php:302) in /var/www/html/wp-includes/functions.php on line 7168
+[07-May-2025 15:52:39 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/wp-content/plugins/woocommerce-openpix/includes/class-wc-openpix-pix.php:302) in /var/www/html/wp-includes/functions.php on line 7144
+[07-May-2025 15:52:39 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/wp-content/plugins/woocommerce-openpix/includes/class-wc-openpix-pix.php:302) in /var/www/html/wp-admin/admin-header.php on line 14
+[07-May-2025 15:52:40 UTC] PHP Warning:  copy(/var/www/html/wp-content/plugins/woocommerce-openpix/includes/config/config.php): failed to open stream: Permission denied in /var/www/html/wp-content/plugins/woocommerce-openpix/includes/class-wc-openpix-pix.php on line 302
+[07-May-2025 15:52:40 UTC] PHP Warning:  copy(/var/www/html/wp-content/plugins/woocommerce-openpix/includes/config/config.php): failed to open stream: Permission denied in /var/www/html/wp-content/plugins/woocommerce-openpix/includes/class-wc-openpix-pix.php on line 302
+[07-May-2025 15:52:40 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/wp-content/plugins/woocommerce-openpix/includes/class-wc-openpix-pix.php:302) in /var/www/html/wp-includes/pluggable.php on line 1450
+[07-May-2025 15:52:40 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/wp-content/plugins/woocommerce-openpix/includes/class-wc-openpix-pix.php:302) in /var/www/html/wp-includes/pluggable.php on line 1453
+[07-May-2025 16:13:18 UTC] PHP Warning:  copy(/var/www/html/wp-content/plugins/woocommerce-openpix/includes/config/config.php): failed to open stream: Permission denied in /var/www/html/wp-content/plugins/woocommerce-openpix/includes/class-wc-openpix-pix.php on line 302
+[07-May-2025 16:15:19 UTC] PHP Warning:  copy(/var/www/html/wp-content/plugins/woocommerce-openpix/includes/config/config.php): failed to open stream: Permission denied in /var/www/html/wp-content/plugins/woocommerce-openpix/includes/class-wc-openpix-pix.php on line 302
+[07-May-2025 16:17:20 UTC] PHP Warning:  copy(/var/www/html/wp-content/plugins/woocommerce-openpix/includes/config/config.php): failed to open stream: Permission denied in /var/www/html/wp-content/plugins/woocommerce-openpix/includes/class-wc-openpix-pix.php on line 302
+[07-May-2025 16:19:20 UTC] PHP Warning:  copy(/var/www/html/wp-content/plugins/woocommerce-openpix/includes/config/config.php): failed to open stream: Permission denied in /var/www/html/wp-content/plugins/woocommerce-openpix/includes/class-wc-openpix-pix.php on line 302
+[07-May-2025 16:21:31 UTC] PHP Warning:  copy(/var/www/html/wp-content/plugins/woocommerce-openpix/includes/config/config.php): failed to open stream: Permission denied in /var/www/html/wp-content/plugins/woocommerce-openpix/includes/class-wc-openpix-pix.php on line 302
+[07-May-2025 16:21:32 UTC] PHP Warning:  copy(/var/www/html/wp-content/plugins/woocommerce-openpix/includes/config/config.php): failed to open stream: Permission denied in /var/www/html/wp-content/plugins/woocommerce-openpix/includes/class-wc-openpix-pix.php on line 302
+[07-May-2025 16:21:32 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/wp-content/plugins/woocommerce-openpix/includes/class-wc-openpix-pix.php:302) in /var/www/html/wp-includes/functions.php on line 7168
+[07-May-2025 16:21:32 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/wp-content/plugins/woocommerce-openpix/includes/class-wc-openpix-pix.php:302) in /var/www/html/wp-includes/functions.php on line 7144
+[07-May-2025 16:21:32 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/wp-content/plugins/woocommerce-openpix/includes/class-wc-openpix-pix.php:302) in /var/www/html/wp-admin/admin-header.php on line 14
+[07-May-2025 16:21:34 UTC] PHP Warning:  copy(/var/www/html/wp-content/plugins/woocommerce-openpix/includes/config/config.php): failed to open stream: Permission denied in /var/www/html/wp-content/plugins/woocommerce-openpix/includes/class-wc-openpix-pix.php on line 302
+[07-May-2025 16:21:34 UTC] PHP Warning:  copy(/var/www/html/wp-content/plugins/woocommerce-openpix/includes/config/config.php): failed to open stream: Permission denied in /var/www/html/wp-content/plugins/woocommerce-openpix/includes/class-wc-openpix-pix.php on line 302
+[07-May-2025 16:21:34 UTC] PHP Warning:  copy(/var/www/html/wp-content/plugins/woocommerce-openpix/includes/config/config.php): failed to open stream: Permission denied in /var/www/html/wp-content/plugins/woocommerce-openpix/includes/class-wc-openpix-pix.php on line 302
+[07-May-2025 16:21:35 UTC] PHP Warning:  copy(/var/www/html/wp-content/plugins/woocommerce-openpix/includes/config/config.php): failed to open stream: Permission denied in /var/www/html/wp-content/plugins/woocommerce-openpix/includes/class-wc-openpix-pix.php on line 302
+[07-May-2025 16:21:35 UTC] PHP Warning:  copy(/var/www/html/wp-content/plugins/woocommerce-openpix/includes/config/config.php): failed to open stream: Permission denied in /var/www/html/wp-content/plugins/woocommerce-openpix/includes/class-wc-openpix-pix.php on line 302
+[07-May-2025 16:21:35 UTC] PHP Warning:  copy(/var/www/html/wp-content/plugins/woocommerce-openpix/includes/config/config.php): failed to open stream: Permission denied in /var/www/html/wp-content/plugins/woocommerce-openpix/includes/class-wc-openpix-pix.php on line 302
+[07-May-2025 16:21:35 UTC] PHP Warning:  copy(/var/www/html/wp-content/plugins/woocommerce-openpix/includes/config/config.php): failed to open stream: Permission denied in /var/www/html/wp-content/plugins/woocommerce-openpix/includes/class-wc-openpix-pix.php on line 302
+[07-May-2025 16:21:35 UTC] PHP Warning:  copy(/var/www/html/wp-content/plugins/woocommerce-openpix/includes/config/config.php): failed to open stream: Permission denied in /var/www/html/wp-content/plugins/woocommerce-openpix/includes/class-wc-openpix-pix.php on line 302
+[07-May-2025 16:21:35 UTC] PHP Warning:  copy(/var/www/html/wp-content/plugins/woocommerce-openpix/includes/config/config.php): failed to open stream: Permission denied in /var/www/html/wp-content/plugins/woocommerce-openpix/includes/class-wc-openpix-pix.php on line 302
+[07-May-2025 16:21:35 UTC] PHP Warning:  copy(/var/www/html/wp-content/plugins/woocommerce-openpix/includes/config/config.php): failed to open stream: Permission denied in /var/www/html/wp-content/plugins/woocommerce-openpix/includes/class-wc-openpix-pix.php on line 302
+[07-May-2025 16:21:35 UTC] PHP Warning:  copy(/var/www/html/wp-content/plugins/woocommerce-openpix/includes/config/config.php): failed to open stream: Permission denied in /var/www/html/wp-content/plugins/woocommerce-openpix/includes/class-wc-openpix-pix.php on line 302
+[07-May-2025 16:21:35 UTC] PHP Warning:  copy(/var/www/html/wp-content/plugins/woocommerce-openpix/includes/config/config.php): failed to open stream: Permission denied in /var/www/html/wp-content/plugins/woocommerce-openpix/includes/class-wc-openpix-pix.php on line 302
+[07-May-2025 16:21:35 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/wp-content/plugins/woocommerce-openpix/includes/class-wc-openpix-pix.php:302) in /var/www/html/wp-includes/pluggable.php on line 1450
+[07-May-2025 16:21:35 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/wp-content/plugins/woocommerce-openpix/includes/class-wc-openpix-pix.php:302) in /var/www/html/wp-includes/pluggable.php on line 1453
+[07-May-2025 16:24:09 UTC] PHP Warning:  copy(/var/www/html/wp-content/plugins/woocommerce-openpix/includes/config/config.php): failed to open stream: Permission denied in /var/www/html/wp-content/plugins/woocommerce-openpix/includes/class-wc-openpix-pix.php on line 302
+[07-May-2025 16:25:09 UTC] PHP Warning:  copy(/var/www/html/wp-content/plugins/woocommerce-openpix/includes/config/config.php): failed to open stream: Permission denied in /var/www/html/wp-content/plugins/woocommerce-openpix/includes/class-wc-openpix-pix.php on line 302
+[07-May-2025 16:25:24 UTC] PHP Warning:  copy(/var/www/html/wp-content/plugins/woocommerce-openpix/includes/config/config.php): failed to open stream: Permission denied in /var/www/html/wp-content/plugins/woocommerce-openpix/includes/class-wc-openpix-pix.php on line 302
+[07-May-2025 16:25:24 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/wp-content/plugins/woocommerce-openpix/includes/class-wc-openpix-pix.php:302) in /var/www/html/wp-includes/functions.php on line 7144
+[07-May-2025 16:25:25 UTC] PHP Warning:  copy(/var/www/html/wp-content/plugins/woocommerce-openpix/includes/config/config.php): failed to open stream: Permission denied in /var/www/html/wp-content/plugins/woocommerce-openpix/includes/class-wc-openpix-pix.php on line 302
+[07-May-2025 16:25:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/wp-content/plugins/woocommerce-openpix/includes/class-wc-openpix-pix.php:302) in /var/www/html/wp-includes/pluggable.php on line 1450
+[07-May-2025 16:25:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/wp-content/plugins/woocommerce-openpix/includes/class-wc-openpix-pix.php:302) in /var/www/html/wp-includes/pluggable.php on line 1453
+[07-May-2025 16:25:44 UTC] PHP Warning:  copy(/var/www/html/wp-content/plugins/woocommerce-openpix/includes/config/config.php): failed to open stream: Permission denied in /var/www/html/wp-content/plugins/woocommerce-openpix/includes/class-wc-openpix-pix.php on line 302
+[07-May-2025 16:25:44 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/wp-content/plugins/woocommerce-openpix/includes/class-wc-openpix-pix.php:302) in /var/www/html/wp-includes/functions.php on line 7168
+[07-May-2025 16:25:44 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/wp-content/plugins/woocommerce-openpix/includes/class-wc-openpix-pix.php:302) in /var/www/html/wp-includes/functions.php on line 7144
+[07-May-2025 16:25:44 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/wp-content/plugins/woocommerce-openpix/includes/class-wc-openpix-pix.php:302) in /var/www/html/wp-admin/admin-header.php on line 14
+[07-May-2025 16:25:45 UTC] PHP Warning:  copy(/var/www/html/wp-content/plugins/woocommerce-openpix/includes/config/config.php): failed to open stream: Permission denied in /var/www/html/wp-content/plugins/woocommerce-openpix/includes/class-wc-openpix-pix.php on line 302
+[07-May-2025 16:25:45 UTC] PHP Warning:  copy(/var/www/html/wp-content/plugins/woocommerce-openpix/includes/config/config.php): failed to open stream: Permission denied in /var/www/html/wp-content/plugins/woocommerce-openpix/includes/class-wc-openpix-pix.php on line 302
+[07-May-2025 16:25:46 UTC] PHP Warning:  copy(/var/www/html/wp-content/plugins/woocommerce-openpix/includes/config/config.php): failed to open stream: Permission denied in /var/www/html/wp-content/plugins/woocommerce-openpix/includes/class-wc-openpix-pix.php on line 302
+[07-May-2025 16:25:46 UTC] PHP Warning:  copy(/var/www/html/wp-content/plugins/woocommerce-openpix/includes/config/config.php): failed to open stream: Permission denied in /var/www/html/wp-content/plugins/woocommerce-openpix/includes/class-wc-openpix-pix.php on line 302
+[07-May-2025 16:25:46 UTC] PHP Warning:  copy(/var/www/html/wp-content/plugins/woocommerce-openpix/includes/config/config.php): failed to open stream: Permission denied in /var/www/html/wp-content/plugins/woocommerce-openpix/includes/class-wc-openpix-pix.php on line 302
+[07-May-2025 16:25:46 UTC] PHP Warning:  copy(/var/www/html/wp-content/plugins/woocommerce-openpix/includes/config/config.php): failed to open stream: Permission denied in /var/www/html/wp-content/plugins/woocommerce-openpix/includes/class-wc-openpix-pix.php on line 302
+[07-May-2025 16:25:46 UTC] PHP Warning:  copy(/var/www/html/wp-content/plugins/woocommerce-openpix/includes/config/config.php): failed to open stream: Permission denied in /var/www/html/wp-content/plugins/woocommerce-openpix/includes/class-wc-openpix-pix.php on line 302
+[07-May-2025 16:25:46 UTC] PHP Warning:  copy(/var/www/html/wp-content/plugins/woocommerce-openpix/includes/config/config.php): failed to open stream: Permission denied in /var/www/html/wp-content/plugins/woocommerce-openpix/includes/class-wc-openpix-pix.php on line 302
+[07-May-2025 16:25:47 UTC] PHP Warning:  copy(/var/www/html/wp-content/plugins/woocommerce-openpix/includes/config/config.php): failed to open stream: Permission denied in /var/www/html/wp-content/plugins/woocommerce-openpix/includes/class-wc-openpix-pix.php on line 302
+[07-May-2025 16:25:47 UTC] PHP Warning:  copy(/var/www/html/wp-content/plugins/woocommerce-openpix/includes/config/config.php): failed to open stream: Permission denied in /var/www/html/wp-content/plugins/woocommerce-openpix/includes/class-wc-openpix-pix.php on line 302
+[07-May-2025 16:25:47 UTC] PHP Warning:  copy(/var/www/html/wp-content/plugins/woocommerce-openpix/includes/config/config.php): failed to open stream: Permission denied in /var/www/html/wp-content/plugins/woocommerce-openpix/includes/class-wc-openpix-pix.php on line 302
+[07-May-2025 16:25:47 UTC] PHP Warning:  copy(/var/www/html/wp-content/plugins/woocommerce-openpix/includes/config/config.php): failed to open stream: Permission denied in /var/www/html/wp-content/plugins/woocommerce-openpix/includes/class-wc-openpix-pix.php on line 302
+[07-May-2025 16:25:47 UTC] PHP Warning:  copy(/var/www/html/wp-content/plugins/woocommerce-openpix/includes/config/config.php): failed to open stream: Permission denied in /var/www/html/wp-content/plugins/woocommerce-openpix/includes/class-wc-openpix-pix.php on line 302
+[07-May-2025 16:25:47 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/wp-content/plugins/woocommerce-openpix/includes/class-wc-openpix-pix.php:302) in /var/www/html/wp-includes/pluggable.php on line 1450
+[07-May-2025 16:25:47 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/wp-content/plugins/woocommerce-openpix/includes/class-wc-openpix-pix.php:302) in /var/www/html/wp-includes/pluggable.php on line 1453
+[07-May-2025 16:25:47 UTC] PHP Warning:  copy(/var/www/html/wp-content/plugins/woocommerce-openpix/includes/config/config.php): failed to open stream: Permission denied in /var/www/html/wp-content/plugins/woocommerce-openpix/includes/class-wc-openpix-pix.php on line 302
+[07-May-2025 16:27:11 UTC] PHP Warning:  copy(/var/www/html/wp-content/plugins/woocommerce-openpix/includes/config/config.php): failed to open stream: Permission denied in /var/www/html/wp-content/plugins/woocommerce-openpix/includes/class-wc-openpix-pix.php on line 302
+[07-May-2025 16:29:12 UTC] PHP Warning:  copy(/var/www/html/wp-content/plugins/woocommerce-openpix/includes/config/config.php): failed to open stream: Permission denied in /var/www/html/wp-content/plugins/woocommerce-openpix/includes/class-wc-openpix-pix.php on line 302
+[07-May-2025 16:31:13 UTC] PHP Warning:  copy(/var/www/html/wp-content/plugins/woocommerce-openpix/includes/config/config.php): failed to open stream: Permission denied in /var/www/html/wp-content/plugins/woocommerce-openpix/includes/class-wc-openpix-pix.php on line 302
+[07-May-2025 16:33:14 UTC] PHP Warning:  copy(/var/www/html/wp-content/plugins/woocommerce-openpix/includes/config/config.php): failed to open stream: Permission denied in /var/www/html/wp-content/plugins/woocommerce-openpix/includes/class-wc-openpix-pix.php on line 302
+[07-May-2025 16:35:15 UTC] PHP Warning:  copy(/var/www/html/wp-content/plugins/woocommerce-openpix/includes/config/config.php): failed to open stream: Permission denied in /var/www/html/wp-content/plugins/woocommerce-openpix/includes/class-wc-openpix-pix.php on line 302
+[07-May-2025 16:37:15 UTC] PHP Warning:  copy(/var/www/html/wp-content/plugins/woocommerce-openpix/includes/config/config.php): failed to open stream: Permission denied in /var/www/html/wp-content/plugins/woocommerce-openpix/includes/class-wc-openpix-pix.php on line 302
+[07-May-2025 16:40:30 UTC] PHP Warning:  copy(/var/www/html/wp-content/plugins/woocommerce-openpix/includes/config/config.php): failed to open stream: Permission denied in /var/www/html/wp-content/plugins/woocommerce-openpix/includes/class-wc-openpix-pix.php on line 302
+[07-May-2025 16:40:36 UTC] PHP Warning:  copy(/var/www/html/wp-content/plugins/woocommerce-openpix/includes/config/config.php): failed to open stream: Permission denied in /var/www/html/wp-content/plugins/woocommerce-openpix/includes/class-wc-openpix-pix.php on line 302
+[07-May-2025 16:40:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/wp-content/plugins/woocommerce-openpix/includes/class-wc-openpix-pix.php:302) in /var/www/html/wp-includes/functions.php on line 7168
+[07-May-2025 16:40:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/wp-content/plugins/woocommerce-openpix/includes/class-wc-openpix-pix.php:302) in /var/www/html/wp-includes/functions.php on line 7144
+[07-May-2025 16:40:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/wp-content/plugins/woocommerce-openpix/includes/class-wc-openpix-pix.php:302) in /var/www/html/wp-admin/admin-header.php on line 14
+[07-May-2025 16:40:38 UTC] PHP Warning:  copy(/var/www/html/wp-content/plugins/woocommerce-openpix/includes/config/config.php): failed to open stream: Permission denied in /var/www/html/wp-content/plugins/woocommerce-openpix/includes/class-wc-openpix-pix.php on line 302
+[07-May-2025 16:40:38 UTC] PHP Warning:  copy(/var/www/html/wp-content/plugins/woocommerce-openpix/includes/config/config.php): failed to open stream: Permission denied in /var/www/html/wp-content/plugins/woocommerce-openpix/includes/class-wc-openpix-pix.php on line 302
+[07-May-2025 16:40:39 UTC] PHP Warning:  copy(/var/www/html/wp-content/plugins/woocommerce-openpix/includes/config/config.php): failed to open stream: Permission denied in /var/www/html/wp-content/plugins/woocommerce-openpix/includes/class-wc-openpix-pix.php on line 302
+[07-May-2025 17:36:02 UTC] PHP Warning:  copy(/var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/config/config.php): failed to open stream: Permission denied in /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/class-wc-openpix-pix.php on line 302
+[07-May-2025 17:36:03 UTC] PHP Warning:  copy(/var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/config/config.php): failed to open stream: Permission denied in /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/class-wc-openpix-pix.php on line 302
+[07-May-2025 17:36:03 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/class-wc-openpix-pix.php:302) in /var/www/html/wp-includes/functions.php on line 7168
+[07-May-2025 17:36:03 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/class-wc-openpix-pix.php:302) in /var/www/html/wp-includes/functions.php on line 7144
+[07-May-2025 17:36:03 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/class-wc-openpix-pix.php:302) in /var/www/html/wp-admin/admin-header.php on line 14
+[07-May-2025 17:36:05 UTC] PHP Warning:  copy(/var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/config/config.php): failed to open stream: Permission denied in /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/class-wc-openpix-pix.php on line 302
+[07-May-2025 17:36:05 UTC] PHP Warning:  copy(/var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/config/config.php): failed to open stream: Permission denied in /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/class-wc-openpix-pix.php on line 302
+[07-May-2025 17:36:05 UTC] PHP Warning:  copy(/var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/config/config.php): failed to open stream: Permission denied in /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/class-wc-openpix-pix.php on line 302
+[07-May-2025 17:36:06 UTC] PHP Warning:  copy(/var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/config/config.php): failed to open stream: Permission denied in /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/class-wc-openpix-pix.php on line 302
+[07-May-2025 17:36:06 UTC] PHP Warning:  copy(/var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/config/config.php): failed to open stream: Permission denied in /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/class-wc-openpix-pix.php on line 302
+[07-May-2025 17:36:06 UTC] PHP Warning:  copy(/var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/config/config.php): failed to open stream: Permission denied in /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/class-wc-openpix-pix.php on line 302
+[07-May-2025 17:36:06 UTC] PHP Warning:  copy(/var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/config/config.php): failed to open stream: Permission denied in /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/class-wc-openpix-pix.php on line 302
+[07-May-2025 17:36:06 UTC] PHP Warning:  copy(/var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/config/config.php): failed to open stream: Permission denied in /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/class-wc-openpix-pix.php on line 302
+[07-May-2025 17:36:06 UTC] PHP Warning:  copy(/var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/config/config.php): failed to open stream: Permission denied in /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/class-wc-openpix-pix.php on line 302
+[07-May-2025 17:36:06 UTC] PHP Warning:  copy(/var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/config/config.php): failed to open stream: Permission denied in /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/class-wc-openpix-pix.php on line 302
+[07-May-2025 17:36:06 UTC] PHP Warning:  copy(/var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/config/config.php): failed to open stream: Permission denied in /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/class-wc-openpix-pix.php on line 302
+[07-May-2025 17:36:06 UTC] PHP Warning:  copy(/var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/config/config.php): failed to open stream: Permission denied in /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/class-wc-openpix-pix.php on line 302
+[07-May-2025 17:36:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/class-wc-openpix-pix.php:302) in /var/www/html/wp-includes/pluggable.php on line 1450
+[07-May-2025 17:36:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/class-wc-openpix-pix.php:302) in /var/www/html/wp-includes/pluggable.php on line 1453
+[07-May-2025 17:36:20 UTC] PHP Warning:  copy(/var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/config/config.php): failed to open stream: Permission denied in /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/class-wc-openpix-pix.php on line 302
+[07-May-2025 17:36:20 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/class-wc-openpix-pix.php:302) in /var/www/html/wp-includes/functions.php on line 7168
+[07-May-2025 17:36:20 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/class-wc-openpix-pix.php:302) in /var/www/html/wp-includes/functions.php on line 7144
+[07-May-2025 17:36:20 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/class-wc-openpix-pix.php:302) in /var/www/html/wp-admin/admin-header.php on line 14
+[07-May-2025 17:36:21 UTC] PHP Warning:  copy(/var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/config/config.php): failed to open stream: Permission denied in /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/class-wc-openpix-pix.php on line 302
+[07-May-2025 17:36:22 UTC] PHP Warning:  copy(/var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/config/config.php): failed to open stream: Permission denied in /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/class-wc-openpix-pix.php on line 302
+[07-May-2025 17:36:22 UTC] PHP Warning:  copy(/var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/config/config.php): failed to open stream: Permission denied in /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/class-wc-openpix-pix.php on line 302
+[07-May-2025 17:36:22 UTC] PHP Warning:  copy(/var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/config/config.php): failed to open stream: Permission denied in /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/class-wc-openpix-pix.php on line 302
+[07-May-2025 17:36:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/class-wc-openpix-pix.php:302) in /var/www/html/wp-includes/pluggable.php on line 1450
+[07-May-2025 17:36:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/class-wc-openpix-pix.php:302) in /var/www/html/wp-includes/pluggable.php on line 1453
+[07-May-2025 20:23:42 UTC] PHP Warning:  copy(/var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/config/config.php): failed to open stream: Permission denied in /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/class-wc-openpix-pix.php on line 302
+[07-May-2025 20:23:44 UTC] PHP Warning:  copy(/var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/config/config.php): failed to open stream: Permission denied in /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/class-wc-openpix-pix.php on line 302
+[07-May-2025 20:24:06 UTC] PHP Warning:  copy(/var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/config/config.php): failed to open stream: Permission denied in /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/class-wc-openpix-pix.php on line 302
+[07-May-2025 20:24:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/class-wc-openpix-pix.php:302) in /var/www/html/wp-includes/functions.php on line 7168
+[07-May-2025 20:24:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/class-wc-openpix-pix.php:302) in /var/www/html/wp-includes/functions.php on line 7144
+[07-May-2025 20:24:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/class-wc-openpix-pix.php:302) in /var/www/html/wp-admin/admin-header.php on line 14
+[07-May-2025 20:24:06 UTC] PHP Warning:  copy(/var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/config/config.php): failed to open stream: Permission denied in /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/class-wc-openpix-pix.php on line 302
+[07-May-2025 20:24:07 UTC] PHP Warning:  copy(/var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/config/config.php): failed to open stream: Permission denied in /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/class-wc-openpix-pix.php on line 302
+[07-May-2025 20:24:07 UTC] PHP Warning:  copy(/var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/config/config.php): failed to open stream: Permission denied in /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/class-wc-openpix-pix.php on line 302
+[07-May-2025 20:24:07 UTC] PHP Warning:  copy(/var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/config/config.php): failed to open stream: Permission denied in /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/class-wc-openpix-pix.php on line 302
+[07-May-2025 20:24:07 UTC] PHP Warning:  copy(/var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/config/config.php): failed to open stream: Permission denied in /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/class-wc-openpix-pix.php on line 302
+[07-May-2025 20:24:07 UTC] PHP Warning:  copy(/var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/config/config.php): failed to open stream: Permission denied in /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/class-wc-openpix-pix.php on line 302
+[07-May-2025 20:24:07 UTC] PHP Warning:  copy(/var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/config/config.php): failed to open stream: Permission denied in /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/class-wc-openpix-pix.php on line 302
+[07-May-2025 20:24:07 UTC] PHP Warning:  copy(/var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/config/config.php): failed to open stream: Permission denied in /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/class-wc-openpix-pix.php on line 302
+[07-May-2025 20:24:07 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/class-wc-openpix-pix.php:302) in /var/www/html/wp-includes/pluggable.php on line 1450
+[07-May-2025 20:24:07 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/class-wc-openpix-pix.php:302) in /var/www/html/wp-includes/pluggable.php on line 1453
+[07-May-2025 20:24:10 UTC] PHP Warning:  copy(/var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/config/config.php): failed to open stream: Permission denied in /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/class-wc-openpix-pix.php on line 302
+[07-May-2025 20:24:10 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/class-wc-openpix-pix.php:302) in /var/www/html/wp-includes/functions.php on line 7168
+[07-May-2025 20:24:10 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/class-wc-openpix-pix.php:302) in /var/www/html/wp-includes/functions.php on line 7144
+[07-May-2025 20:24:10 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/class-wc-openpix-pix.php:302) in /var/www/html/wp-admin/admin-header.php on line 14
+[07-May-2025 20:24:11 UTC] PHP Warning:  copy(/var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/config/config.php): failed to open stream: Permission denied in /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/class-wc-openpix-pix.php on line 302
+[07-May-2025 20:24:11 UTC] PHP Warning:  copy(/var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/config/config.php): failed to open stream: Permission denied in /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/class-wc-openpix-pix.php on line 302
+[07-May-2025 20:24:11 UTC] PHP Warning:  copy(/var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/config/config.php): failed to open stream: Permission denied in /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/class-wc-openpix-pix.php on line 302
+[07-May-2025 20:24:11 UTC] PHP Warning:  copy(/var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/config/config.php): failed to open stream: Permission denied in /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/class-wc-openpix-pix.php on line 302
+[07-May-2025 20:24:11 UTC] PHP Warning:  copy(/var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/config/config.php): failed to open stream: Permission denied in /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/class-wc-openpix-pix.php on line 302
+[07-May-2025 20:24:11 UTC] PHP Warning:  copy(/var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/config/config.php): failed to open stream: Permission denied in /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/class-wc-openpix-pix.php on line 302
+[07-May-2025 20:24:11 UTC] PHP Warning:  copy(/var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/config/config.php): failed to open stream: Permission denied in /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/class-wc-openpix-pix.php on line 302
+[07-May-2025 20:24:11 UTC] PHP Warning:  copy(/var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/config/config.php): failed to open stream: Permission denied in /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/class-wc-openpix-pix.php on line 302
+[07-May-2025 20:24:11 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/class-wc-openpix-pix.php:302) in /var/www/html/wp-includes/pluggable.php on line 1450
+[07-May-2025 20:24:11 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/class-wc-openpix-pix.php:302) in /var/www/html/wp-includes/pluggable.php on line 1453
+[07-May-2025 22:52:53 UTC] PHP Warning:  copy(/var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/config/config.php): failed to open stream: Permission denied in /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/class-wc-openpix-pix.php on line 302
+[07-May-2025 22:53:10 UTC] PHP Warning:  copy(/var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/config/config.php): failed to open stream: Permission denied in /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/class-wc-openpix-pix.php on line 302
+[07-May-2025 22:53:27 UTC] PHP Warning:  copy(/var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/config/config.php): failed to open stream: Permission denied in /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/class-wc-openpix-pix.php on line 302
+[07-May-2025 22:53:28 UTC] PHP Warning:  copy(/var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/config/config.php): failed to open stream: Permission denied in /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/class-wc-openpix-pix.php on line 302
+[07-May-2025 22:54:30 UTC] PHP Warning:  copy(/var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/config/config.php): failed to open stream: Permission denied in /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/class-wc-openpix-pix.php on line 302
+[07-May-2025 22:54:41 UTC] PHP Warning:  copy(/var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/config/config.php): failed to open stream: Permission denied in /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/class-wc-openpix-pix.php on line 302
+[07-May-2025 22:54:41 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/class-wc-openpix-pix.php:302) in /var/www/html/wp-includes/pluggable.php on line 1450
+[07-May-2025 22:54:41 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/class-wc-openpix-pix.php:302) in /var/www/html/wp-includes/pluggable.php on line 1453
+[19-May-2025 13:48:13 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/class-wc-openpix-pix.php:67) in /var/www/html/wp-admin/admin-ajax.php on line 27
+[19-May-2025 13:48:13 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/class-wc-openpix-pix.php:67) in /var/www/html/wp-admin/admin-ajax.php on line 28
+[19-May-2025 13:48:13 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/class-wc-openpix-pix.php:67) in /var/www/html/wp-includes/functions.php on line 7031
+[19-May-2025 13:48:13 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/class-wc-openpix-pix.php:67) in /var/www/html/wp-includes/functions.php on line 7168
+[19-May-2025 13:48:13 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/class-wc-openpix-pix.php:67) in /var/www/html/wp-includes/functions.php on line 7144
+[11-Jun-2025 21:11:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method OpenPixConfig::getWebhookUrl() in /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/class-wc-openpix-pix.php:761
+Stack trace:
+#0 /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/class-wc-openpix-pix.php(81): WC_OpenPix_Pix_Gateway->init_form_fields()
+#1 /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/class-wc-openpix-pix.php(60): WC_OpenPix_Pix_Gateway->__construct()
+#2 /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/class-wc-openpix-pix-block.php(13): WC_OpenPix_Pix_Gateway::instance()
+#3 /var/www/html/wp-content/plugins/woocommerce/src/Blocks/Integrations/IntegrationRegistry.php(53): WC_OpenPix_Pix_Block->initialize()
+#4 /var/www/html/wp-includes/class-wp-hook.php(324): Automattic\WooCommerce\Blocks\Integrations\IntegrationRegistry->initialize('')
+#5 /var/www/html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#6 /var/www/html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#7 /var/www/html/wp-settings.php(727): do_action('init')
+#8 /var/www/html/wp-config.php(186): require_once('/var/www/html/w...')
+#9 /var/www/html/wp-load.php(50): require_once('/var/www/html/w...')
+#10 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#11 {main}
+  thrown in /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/class-wc-openpix-pix.php on line 761
+[11-Jun-2025 21:13:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method OpenPixConfig::getWebhookUrl() in /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/class-wc-openpix-pix.php:761
+Stack trace:
+#0 /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/class-wc-openpix-pix.php(81): WC_OpenPix_Pix_Gateway->init_form_fields()
+#1 /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/class-wc-openpix-pix.php(60): WC_OpenPix_Pix_Gateway->__construct()
+#2 /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/class-wc-openpix-pix-block.php(13): WC_OpenPix_Pix_Gateway::instance()
+#3 /var/www/html/wp-content/plugins/woocommerce/src/Blocks/Integrations/IntegrationRegistry.php(53): WC_OpenPix_Pix_Block->initialize()
+#4 /var/www/html/wp-includes/class-wp-hook.php(324): Automattic\WooCommerce\Blocks\Integrations\IntegrationRegistry->initialize('')
+#5 /var/www/html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#6 /var/www/html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#7 /var/www/html/wp-settings.php(727): do_action('init')
+#8 /var/www/html/wp-config.php(186): require_once('/var/www/html/w...')
+#9 /var/www/html/wp-load.php(50): require_once('/var/www/html/w...')
+#10 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#11 {main}
+  thrown in /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/class-wc-openpix-pix.php on line 761
+[11-Jun-2025 21:15:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method OpenPixConfig::getWebhookUrl() in /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/class-wc-openpix-pix.php:761
+Stack trace:
+#0 /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/class-wc-openpix-pix.php(81): WC_OpenPix_Pix_Gateway->init_form_fields()
+#1 /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/class-wc-openpix-pix.php(60): WC_OpenPix_Pix_Gateway->__construct()
+#2 /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/class-wc-openpix-pix-block.php(13): WC_OpenPix_Pix_Gateway::instance()
+#3 /var/www/html/wp-content/plugins/woocommerce/src/Blocks/Integrations/IntegrationRegistry.php(53): WC_OpenPix_Pix_Block->initialize()
+#4 /var/www/html/wp-includes/class-wp-hook.php(324): Automattic\WooCommerce\Blocks\Integrations\IntegrationRegistry->initialize('')
+#5 /var/www/html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#6 /var/www/html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#7 /var/www/html/wp-settings.php(727): do_action('init')
+#8 /var/www/html/wp-config.php(186): require_once('/var/www/html/w...')
+#9 /var/www/html/wp-load.php(50): require_once('/var/www/html/w...')
+#10 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#11 {main}
+  thrown in /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/class-wc-openpix-pix.php on line 761
+[11-Jun-2025 21:17:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method OpenPixConfig::getWebhookUrl() in /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/class-wc-openpix-pix.php:761
+Stack trace:
+#0 /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/class-wc-openpix-pix.php(81): WC_OpenPix_Pix_Gateway->init_form_fields()
+#1 /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/class-wc-openpix-pix.php(60): WC_OpenPix_Pix_Gateway->__construct()
+#2 /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/class-wc-openpix-pix-block.php(13): WC_OpenPix_Pix_Gateway::instance()
+#3 /var/www/html/wp-content/plugins/woocommerce/src/Blocks/Integrations/IntegrationRegistry.php(53): WC_OpenPix_Pix_Block->initialize()
+#4 /var/www/html/wp-includes/class-wp-hook.php(324): Automattic\WooCommerce\Blocks\Integrations\IntegrationRegistry->initialize('')
+#5 /var/www/html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#6 /var/www/html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#7 /var/www/html/wp-settings.php(727): do_action('init')
+#8 /var/www/html/wp-config.php(186): require_once('/var/www/html/w...')
+#9 /var/www/html/wp-load.php(50): require_once('/var/www/html/w...')
+#10 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#11 {main}
+  thrown in /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/class-wc-openpix-pix.php on line 761
+[11-Jun-2025 21:19:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method OpenPixConfig::getWebhookUrl() in /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/class-wc-openpix-pix.php:761
+Stack trace:
+#0 /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/class-wc-openpix-pix.php(81): WC_OpenPix_Pix_Gateway->init_form_fields()
+#1 /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/class-wc-openpix-pix.php(60): WC_OpenPix_Pix_Gateway->__construct()
+#2 /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/class-wc-openpix-pix-block.php(13): WC_OpenPix_Pix_Gateway::instance()
+#3 /var/www/html/wp-content/plugins/woocommerce/src/Blocks/Integrations/IntegrationRegistry.php(53): WC_OpenPix_Pix_Block->initialize()
+#4 /var/www/html/wp-includes/class-wp-hook.php(324): Automattic\WooCommerce\Blocks\Integrations\IntegrationRegistry->initialize('')
+#5 /var/www/html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#6 /var/www/html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#7 /var/www/html/wp-settings.php(727): do_action('init')
+#8 /var/www/html/wp-config.php(186): require_once('/var/www/html/w...')
+#9 /var/www/html/wp-load.php(50): require_once('/var/www/html/w...')
+#10 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#11 {main}
+  thrown in /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/class-wc-openpix-pix.php on line 761
+[11-Jun-2025 21:21:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method OpenPixConfig::getWebhookUrl() in /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/class-wc-openpix-pix.php:761
+Stack trace:
+#0 /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/class-wc-openpix-pix.php(81): WC_OpenPix_Pix_Gateway->init_form_fields()
+#1 /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/class-wc-openpix-pix.php(60): WC_OpenPix_Pix_Gateway->__construct()
+#2 /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/class-wc-openpix-pix-block.php(13): WC_OpenPix_Pix_Gateway::instance()
+#3 /var/www/html/wp-content/plugins/woocommerce/src/Blocks/Integrations/IntegrationRegistry.php(53): WC_OpenPix_Pix_Block->initialize()
+#4 /var/www/html/wp-includes/class-wp-hook.php(324): Automattic\WooCommerce\Blocks\Integrations\IntegrationRegistry->initialize('')
+#5 /var/www/html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#6 /var/www/html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#7 /var/www/html/wp-settings.php(727): do_action('init')
+#8 /var/www/html/wp-config.php(186): require_once('/var/www/html/w...')
+#9 /var/www/html/wp-load.php(50): require_once('/var/www/html/w...')
+#10 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#11 {main}
+  thrown in /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/class-wc-openpix-pix.php on line 761
+[30-Jun-2025 01:56:34 UTC] PHP Warning:  Undefined array key "" in /var/www/html/wp-content/plugins/woocommerce/src/StoreApi/Utilities/PaymentUtils.php on line 109
+[30-Jun-2025 01:56:36 UTC] PHP Warning:  Undefined array key "" in /var/www/html/wp-content/plugins/woocommerce/src/StoreApi/Utilities/PaymentUtils.php on line 109
+[30-Jun-2025 01:59:42 UTC] PHP Warning:  Undefined array key "" in /var/www/html/wp-content/plugins/woocommerce/src/StoreApi/Utilities/PaymentUtils.php on line 109
+[30-Jun-2025 01:59:44 UTC] PHP Warning:  Undefined array key "" in /var/www/html/wp-content/plugins/woocommerce/src/StoreApi/Utilities/PaymentUtils.php on line 109
+[30-Jun-2025 01:59:47 UTC] PHP Warning:  Undefined array key "" in /var/www/html/wp-content/plugins/woocommerce/src/StoreApi/Utilities/PaymentUtils.php on line 109
+[30-Jun-2025 01:59:49 UTC] PHP Warning:  Undefined array key "" in /var/www/html/wp-content/plugins/woocommerce/src/StoreApi/Utilities/PaymentUtils.php on line 109
+[30-Jun-2025 01:59:54 UTC] PHP Warning:  Undefined array key "" in /var/www/html/wp-content/plugins/woocommerce/src/StoreApi/Utilities/PaymentUtils.php on line 109
+[30-Jun-2025 01:59:56 UTC] PHP Warning:  Undefined array key "" in /var/www/html/wp-content/plugins/woocommerce/src/StoreApi/Utilities/PaymentUtils.php on line 109
+[30-Jun-2025 02:00:59 UTC] PHP Fatal error:  Uncaught TypeError: ConfigFactory::createStrategy(): Argument #1 ($environment) must be of type string, null given, called in /var/www/html/wp-content/plugins/woocommerce-openpix/includes/config/config.php on line 9 and defined in /var/www/html/wp-content/plugins/woocommerce-openpix/includes/config/ConfigFactory.php:5
+Stack trace:
+#0 /var/www/html/wp-content/plugins/woocommerce-openpix/includes/config/config.php(9): ConfigFactory::createStrategy(NULL)
+#1 /var/www/html/wp-content/plugins/woocommerce-openpix/includes/config/config.php(45): OpenPixConfig::initialize()
+#2 /var/www/html/wp-content/plugins/woocommerce-openpix/includes/config/config.php(29): OpenPixConfig::getStrategy()
+#3 /var/www/html/wp-content/plugins/woocommerce-openpix/includes/class-wc-openpix-pix.php(706): OpenPixConfig::getWebhookUrl()
+#4 /var/www/html/wp-content/plugins/woocommerce-openpix/includes/class-wc-openpix-pix.php(78): WC_OpenPix_Pix_Gateway->init_form_fields()
+#5 /var/www/html/wp-content/plugins/woocommerce-openpix/includes/class-wc-openpix-pix.php(59): WC_OpenPix_Pix_Gateway->__construct()
+#6 /var/www/html/wp-content/plugins/woocommerce-openpix/includes/class-wc-openpix-pix-block.php(13): WC_OpenPix_Pix_Gateway::instance()
+#7 /var/www/html/wp-content/plugins/woocommerce/src/Blocks/Integrations/IntegrationRegistry.php(53): WC_OpenPix_Pix_Block->initialize()
+#8 /var/www/html/wp-includes/class-wp-hook.php(324): Automattic\WooCommerce\Blocks\Integrations\IntegrationRegistry->initialize('')
+#9 /var/www/html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#10 /var/www/html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#11 /var/www/html/wp-settings.php(727): do_action('init')
+#12 /var/www/html/wp-config.php(186): require_once('/var/www/html/w...')
+#13 /var/www/html/wp-load.php(50): require_once('/var/www/html/w...')
+#14 /var/www/html/wp-admin/admin.php(35): require_once('/var/www/html/w...')
+#15 /var/www/html/wp-admin/plugins.php(10): require_once('/var/www/html/w...')
+#16 {main}
+  thrown in /var/www/html/wp-content/plugins/woocommerce-openpix/includes/config/ConfigFactory.php on line 5
+[30-Jun-2025 13:10:37 UTC] PHP Fatal error:  Uncaught Error: Undefined constant EnvironmentEnum::SANDBOX_PROD in /var/www/html/wp-content/plugins/woocommerce-openpix/includes/config/ConfigFactory.php:8
+Stack trace:
+#0 /var/www/html/wp-content/plugins/woocommerce-openpix/includes/config/config.php(11): ConfigFactory::createStrategy('prod')
+#1 /var/www/html/wp-content/plugins/woocommerce-openpix/includes/config/config.php(47): OpenPixConfig::initialize()
+#2 /var/www/html/wp-content/plugins/woocommerce-openpix/includes/config/config.php(31): OpenPixConfig::getStrategy()
+#3 /var/www/html/wp-content/plugins/woocommerce-openpix/includes/class-wc-openpix-pix.php(716): OpenPixConfig::getWebhookUrl()
+#4 /var/www/html/wp-content/plugins/woocommerce-openpix/includes/class-wc-openpix-pix.php(78): WC_OpenPix_Pix_Gateway->init_form_fields()
+#5 /var/www/html/wp-content/plugins/woocommerce-openpix/includes/class-wc-openpix-pix.php(59): WC_OpenPix_Pix_Gateway->__construct()
+#6 /var/www/html/wp-content/plugins/woocommerce-openpix/includes/class-wc-openpix-pix-block.php(13): WC_OpenPix_Pix_Gateway::instance()
+#7 /var/www/html/wp-content/plugins/woocommerce/src/Blocks/Integrations/IntegrationRegistry.php(53): WC_OpenPix_Pix_Block->initialize()
+#8 /var/www/html/wp-includes/class-wp-hook.php(324): Automattic\WooCommerce\Blocks\Integrations\IntegrationRegistry->initialize('')
+#9 /var/www/html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#10 /var/www/html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#11 /var/www/html/wp-settings.php(727): do_action('init')
+#12 /var/www/html/wp-config.php(186): require_once('/var/www/html/w...')
+#13 /var/www/html/wp-load.php(50): require_once('/var/www/html/w...')
+#14 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#15 {main}
+  thrown in /var/www/html/wp-content/plugins/woocommerce-openpix/includes/config/ConfigFactory.php on line 8
+[30-Jun-2025 13:11:50 UTC] PHP Fatal error:  Uncaught Error: Undefined constant EnvironmentEnum::SANDBOX_PROD in /var/www/html/wp-content/plugins/woocommerce-openpix/includes/config/ConfigFactory.php:8
+Stack trace:
+#0 /var/www/html/wp-content/plugins/woocommerce-openpix/includes/config/config.php(11): ConfigFactory::createStrategy('prod')
+#1 /var/www/html/wp-content/plugins/woocommerce-openpix/includes/config/config.php(47): OpenPixConfig::initialize()
+#2 /var/www/html/wp-content/plugins/woocommerce-openpix/includes/config/config.php(31): OpenPixConfig::getStrategy()
+#3 /var/www/html/wp-content/plugins/woocommerce-openpix/includes/class-wc-openpix-pix.php(716): OpenPixConfig::getWebhookUrl()
+#4 /var/www/html/wp-content/plugins/woocommerce-openpix/includes/class-wc-openpix-pix.php(78): WC_OpenPix_Pix_Gateway->init_form_fields()
+#5 /var/www/html/wp-content/plugins/woocommerce-openpix/includes/class-wc-openpix-pix.php(59): WC_OpenPix_Pix_Gateway->__construct()
+#6 /var/www/html/wp-content/plugins/woocommerce-openpix/includes/class-wc-openpix-pix-block.php(13): WC_OpenPix_Pix_Gateway::instance()
+#7 /var/www/html/wp-content/plugins/woocommerce/src/Blocks/Integrations/IntegrationRegistry.php(53): WC_OpenPix_Pix_Block->initialize()
+#8 /var/www/html/wp-includes/class-wp-hook.php(324): Automattic\WooCommerce\Blocks\Integrations\IntegrationRegistry->initialize('')
+#9 /var/www/html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#10 /var/www/html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#11 /var/www/html/wp-settings.php(727): do_action('init')
+#12 /var/www/html/wp-config.php(186): require_once('/var/www/html/w...')
+#13 /var/www/html/wp-load.php(50): require_once('/var/www/html/w...')
+#14 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#15 {main}
+  thrown in /var/www/html/wp-content/plugins/woocommerce-openpix/includes/config/ConfigFactory.php on line 8
+[30-Jun-2025 13:12:50 UTC] PHP Fatal error:  Uncaught Error: Undefined constant EnvironmentEnum::SANDBOX_PROD in /var/www/html/wp-content/plugins/woocommerce-openpix/includes/config/ConfigFactory.php:8
+Stack trace:
+#0 /var/www/html/wp-content/plugins/woocommerce-openpix/includes/config/config.php(11): ConfigFactory::createStrategy('prod')
+#1 /var/www/html/wp-content/plugins/woocommerce-openpix/includes/config/config.php(47): OpenPixConfig::initialize()
+#2 /var/www/html/wp-content/plugins/woocommerce-openpix/includes/config/config.php(31): OpenPixConfig::getStrategy()
+#3 /var/www/html/wp-content/plugins/woocommerce-openpix/includes/class-wc-openpix-pix.php(716): OpenPixConfig::getWebhookUrl()
+#4 /var/www/html/wp-content/plugins/woocommerce-openpix/includes/class-wc-openpix-pix.php(78): WC_OpenPix_Pix_Gateway->init_form_fields()
+#5 /var/www/html/wp-content/plugins/woocommerce-openpix/includes/class-wc-openpix-pix.php(59): WC_OpenPix_Pix_Gateway->__construct()
+#6 /var/www/html/wp-content/plugins/woocommerce-openpix/includes/class-wc-openpix-pix-block.php(13): WC_OpenPix_Pix_Gateway::instance()
+#7 /var/www/html/wp-content/plugins/woocommerce/src/Blocks/Integrations/IntegrationRegistry.php(53): WC_OpenPix_Pix_Block->initialize()
+#8 /var/www/html/wp-includes/class-wp-hook.php(324): Automattic\WooCommerce\Blocks\Integrations\IntegrationRegistry->initialize('')
+#9 /var/www/html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#10 /var/www/html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#11 /var/www/html/wp-settings.php(727): do_action('init')
+#12 /var/www/html/wp-config.php(186): require_once('/var/www/html/w...')
+#13 /var/www/html/wp-load.php(50): require_once('/var/www/html/w...')
+#14 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#15 {main}
+  thrown in /var/www/html/wp-content/plugins/woocommerce-openpix/includes/config/ConfigFactory.php on line 8
+[30-Jun-2025 13:14:51 UTC] PHP Fatal error:  Uncaught Error: Undefined constant EnvironmentEnum::SANDBOX_PROD in /var/www/html/wp-content/plugins/woocommerce-openpix/includes/config/ConfigFactory.php:8
+Stack trace:
+#0 /var/www/html/wp-content/plugins/woocommerce-openpix/includes/config/config.php(11): ConfigFactory::createStrategy('prod')
+#1 /var/www/html/wp-content/plugins/woocommerce-openpix/includes/config/config.php(47): OpenPixConfig::initialize()
+#2 /var/www/html/wp-content/plugins/woocommerce-openpix/includes/config/config.php(31): OpenPixConfig::getStrategy()
+#3 /var/www/html/wp-content/plugins/woocommerce-openpix/includes/class-wc-openpix-pix.php(716): OpenPixConfig::getWebhookUrl()
+#4 /var/www/html/wp-content/plugins/woocommerce-openpix/includes/class-wc-openpix-pix.php(78): WC_OpenPix_Pix_Gateway->init_form_fields()
+#5 /var/www/html/wp-content/plugins/woocommerce-openpix/includes/class-wc-openpix-pix.php(59): WC_OpenPix_Pix_Gateway->__construct()
+#6 /var/www/html/wp-content/plugins/woocommerce-openpix/includes/class-wc-openpix-pix-block.php(13): WC_OpenPix_Pix_Gateway::instance()
+#7 /var/www/html/wp-content/plugins/woocommerce/src/Blocks/Integrations/IntegrationRegistry.php(53): WC_OpenPix_Pix_Block->initialize()
+#8 /var/www/html/wp-includes/class-wp-hook.php(324): Automattic\WooCommerce\Blocks\Integrations\IntegrationRegistry->initialize('')
+#9 /var/www/html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#10 /var/www/html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#11 /var/www/html/wp-settings.php(727): do_action('init')
+#12 /var/www/html/wp-config.php(186): require_once('/var/www/html/w...')
+#13 /var/www/html/wp-load.php(50): require_once('/var/www/html/w...')
+#14 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#15 {main}
+  thrown in /var/www/html/wp-content/plugins/woocommerce-openpix/includes/config/ConfigFactory.php on line 8
+[30-Jun-2025 13:16:05 UTC] PHP Fatal error:  Uncaught Error: Undefined constant EnvironmentEnum::SANDBOX_PROD in /var/www/html/wp-content/plugins/woocommerce-openpix/includes/config/ConfigFactory.php:8
+Stack trace:
+#0 /var/www/html/wp-content/plugins/woocommerce-openpix/includes/config/config.php(11): ConfigFactory::createStrategy('prod')
+#1 /var/www/html/wp-content/plugins/woocommerce-openpix/includes/config/config.php(47): OpenPixConfig::initialize()
+#2 /var/www/html/wp-content/plugins/woocommerce-openpix/includes/config/config.php(31): OpenPixConfig::getStrategy()
+#3 /var/www/html/wp-content/plugins/woocommerce-openpix/includes/class-wc-openpix-pix.php(716): OpenPixConfig::getWebhookUrl()
+#4 /var/www/html/wp-content/plugins/woocommerce-openpix/includes/class-wc-openpix-pix.php(78): WC_OpenPix_Pix_Gateway->init_form_fields()
+#5 /var/www/html/wp-content/plugins/woocommerce-openpix/includes/class-wc-openpix-pix.php(59): WC_OpenPix_Pix_Gateway->__construct()
+#6 /var/www/html/wp-content/plugins/woocommerce-openpix/includes/class-wc-openpix-pix-block.php(13): WC_OpenPix_Pix_Gateway::instance()
+#7 /var/www/html/wp-content/plugins/woocommerce/src/Blocks/Integrations/IntegrationRegistry.php(53): WC_OpenPix_Pix_Block->initialize()
+#8 /var/www/html/wp-includes/class-wp-hook.php(324): Automattic\WooCommerce\Blocks\Integrations\IntegrationRegistry->initialize('')
+#9 /var/www/html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#10 /var/www/html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#11 /var/www/html/wp-settings.php(727): do_action('init')
+#12 /var/www/html/wp-config.php(186): require_once('/var/www/html/w...')
+#13 /var/www/html/wp-load.php(50): require_once('/var/www/html/w...')
+#14 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#15 {main}
+  thrown in /var/www/html/wp-content/plugins/woocommerce-openpix/includes/config/ConfigFactory.php on line 8
+[30-Jun-2025 13:17:05 UTC] PHP Fatal error:  Uncaught Error: Undefined constant EnvironmentEnum::SANDBOX_PROD in /var/www/html/wp-content/plugins/woocommerce-openpix/includes/config/ConfigFactory.php:8
+Stack trace:
+#0 /var/www/html/wp-content/plugins/woocommerce-openpix/includes/config/config.php(11): ConfigFactory::createStrategy('prod')
+#1 /var/www/html/wp-content/plugins/woocommerce-openpix/includes/config/config.php(47): OpenPixConfig::initialize()
+#2 /var/www/html/wp-content/plugins/woocommerce-openpix/includes/config/config.php(31): OpenPixConfig::getStrategy()
+#3 /var/www/html/wp-content/plugins/woocommerce-openpix/includes/class-wc-openpix-pix.php(716): OpenPixConfig::getWebhookUrl()
+#4 /var/www/html/wp-content/plugins/woocommerce-openpix/includes/class-wc-openpix-pix.php(78): WC_OpenPix_Pix_Gateway->init_form_fields()
+#5 /var/www/html/wp-content/plugins/woocommerce-openpix/includes/class-wc-openpix-pix.php(59): WC_OpenPix_Pix_Gateway->__construct()
+#6 /var/www/html/wp-content/plugins/woocommerce-openpix/includes/class-wc-openpix-pix-block.php(13): WC_OpenPix_Pix_Gateway::instance()
+#7 /var/www/html/wp-content/plugins/woocommerce/src/Blocks/Integrations/IntegrationRegistry.php(53): WC_OpenPix_Pix_Block->initialize()
+#8 /var/www/html/wp-includes/class-wp-hook.php(324): Automattic\WooCommerce\Blocks\Integrations\IntegrationRegistry->initialize('')
+#9 /var/www/html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#10 /var/www/html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#11 /var/www/html/wp-settings.php(727): do_action('init')
+#12 /var/www/html/wp-config.php(186): require_once('/var/www/html/w...')
+#13 /var/www/html/wp-load.php(50): require_once('/var/www/html/w...')
+#14 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#15 {main}
+  thrown in /var/www/html/wp-content/plugins/woocommerce-openpix/includes/config/ConfigFactory.php on line 8
+[30-Jun-2025 13:19:06 UTC] PHP Fatal error:  Uncaught Error: Undefined constant EnvironmentEnum::SANDBOX_PROD in /var/www/html/wp-content/plugins/woocommerce-openpix/includes/config/ConfigFactory.php:8
+Stack trace:
+#0 /var/www/html/wp-content/plugins/woocommerce-openpix/includes/config/config.php(11): ConfigFactory::createStrategy('prod')
+#1 /var/www/html/wp-content/plugins/woocommerce-openpix/includes/config/config.php(47): OpenPixConfig::initialize()
+#2 /var/www/html/wp-content/plugins/woocommerce-openpix/includes/config/config.php(31): OpenPixConfig::getStrategy()
+#3 /var/www/html/wp-content/plugins/woocommerce-openpix/includes/class-wc-openpix-pix.php(716): OpenPixConfig::getWebhookUrl()
+#4 /var/www/html/wp-content/plugins/woocommerce-openpix/includes/class-wc-openpix-pix.php(78): WC_OpenPix_Pix_Gateway->init_form_fields()
+#5 /var/www/html/wp-content/plugins/woocommerce-openpix/includes/class-wc-openpix-pix.php(59): WC_OpenPix_Pix_Gateway->__construct()
+#6 /var/www/html/wp-content/plugins/woocommerce-openpix/includes/class-wc-openpix-pix-block.php(13): WC_OpenPix_Pix_Gateway::instance()
+#7 /var/www/html/wp-content/plugins/woocommerce/src/Blocks/Integrations/IntegrationRegistry.php(53): WC_OpenPix_Pix_Block->initialize()
+#8 /var/www/html/wp-includes/class-wp-hook.php(324): Automattic\WooCommerce\Blocks\Integrations\IntegrationRegistry->initialize('')
+#9 /var/www/html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#10 /var/www/html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#11 /var/www/html/wp-settings.php(727): do_action('init')
+#12 /var/www/html/wp-config.php(186): require_once('/var/www/html/w...')
+#13 /var/www/html/wp-load.php(50): require_once('/var/www/html/w...')
+#14 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#15 {main}
+  thrown in /var/www/html/wp-content/plugins/woocommerce-openpix/includes/config/ConfigFactory.php on line 8
+[30-Jun-2025 14:08:49 UTC] PHP Fatal error:  Uncaught Error: Undefined constant EnvironmentEnum::SANDBOX_PROD in /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/config/ConfigFactory.php:8
+Stack trace:
+#0 /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/config/config.php(11): ConfigFactory::createStrategy('prod')
+#1 /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/config/config.php(47): OpenPixConfig::initialize()
+#2 /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/config/config.php(31): OpenPixConfig::getStrategy()
+#3 /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/class-wc-openpix-pix.php(716): OpenPixConfig::getWebhookUrl()
+#4 /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/class-wc-openpix-pix.php(78): WC_OpenPix_Pix_Gateway->init_form_fields()
+#5 /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/class-wc-openpix-pix.php(59): WC_OpenPix_Pix_Gateway->__construct()
+#6 /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/class-wc-openpix-pix-block.php(13): WC_OpenPix_Pix_Gateway::instance()
+#7 /var/www/html/wp-content/plugins/woocommerce/src/Blocks/Integrations/IntegrationRegistry.php(53): WC_OpenPix_Pix_Block->initialize()
+#8 /var/www/html/wp-includes/class-wp-hook.php(324): Automattic\WooCommerce\Blocks\Integrations\IntegrationRegistry->initialize('')
+#9 /var/www/html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#10 /var/www/html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#11 /var/www/html/wp-settings.php(727): do_action('init')
+#12 /var/www/html/wp-config.php(186): require_once('/var/www/html/w...')
+#13 /var/www/html/wp-load.php(50): require_once('/var/www/html/w...')
+#14 /var/www/html/wp-admin/admin.php(35): require_once('/var/www/html/w...')
+#15 /var/www/html/wp-admin/plugins.php(10): require_once('/var/www/html/w...')
+#16 {main}
+  thrown in /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/config/ConfigFactory.php on line 8
+[30-Jun-2025 14:26:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method OpenPixConfig::initialize() in /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/class-wc-openpix-pix.php:88
+Stack trace:
+#0 /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/class-wc-openpix-pix.php(59): WC_OpenPix_Pix_Gateway->__construct()
+#1 /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/class-wc-openpix-pix-block.php(13): WC_OpenPix_Pix_Gateway::instance()
+#2 /var/www/html/wp-content/plugins/woocommerce/src/Blocks/Integrations/IntegrationRegistry.php(53): WC_OpenPix_Pix_Block->initialize()
+#3 /var/www/html/wp-includes/class-wp-hook.php(324): Automattic\WooCommerce\Blocks\Integrations\IntegrationRegistry->initialize('')
+#4 /var/www/html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#5 /var/www/html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#6 /var/www/html/wp-settings.php(727): do_action('init')
+#7 /var/www/html/wp-config.php(186): require_once('/var/www/html/w...')
+#8 /var/www/html/wp-load.php(50): require_once('/var/www/html/w...')
+#9 /var/www/html/wp-admin/admin.php(35): require_once('/var/www/html/w...')
+#10 /var/www/html/wp-admin/plugins.php(10): require_once('/var/www/html/w...')
+#11 {main}
+  thrown in /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/class-wc-openpix-pix.php on line 88
+[30-Jun-2025 14:26:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method OpenPixConfig::initialize() in /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/class-wc-openpix-pix.php:88
+Stack trace:
+#0 /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/class-wc-openpix-pix.php(59): WC_OpenPix_Pix_Gateway->__construct()
+#1 /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/class-wc-openpix-pix-block.php(13): WC_OpenPix_Pix_Gateway::instance()
+#2 /var/www/html/wp-content/plugins/woocommerce/src/Blocks/Integrations/IntegrationRegistry.php(53): WC_OpenPix_Pix_Block->initialize()
+#3 /var/www/html/wp-includes/class-wp-hook.php(324): Automattic\WooCommerce\Blocks\Integrations\IntegrationRegistry->initialize('')
+#4 /var/www/html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#5 /var/www/html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#6 /var/www/html/wp-settings.php(727): do_action('init')
+#7 /var/www/html/wp-config.php(186): require_once('/var/www/html/w...')
+#8 /var/www/html/wp-load.php(50): require_once('/var/www/html/w...')
+#9 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#10 /var/www/html/index.php(17): require('/var/www/html/w...')
+#11 {main}
+  thrown in /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/class-wc-openpix-pix.php on line 88
+[30-Jun-2025 14:27:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method OpenPixConfig::initialize() in /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/class-wc-openpix-pix.php:88
+Stack trace:
+#0 /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/class-wc-openpix-pix.php(59): WC_OpenPix_Pix_Gateway->__construct()
+#1 /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/class-wc-openpix-pix-block.php(13): WC_OpenPix_Pix_Gateway::instance()
+#2 /var/www/html/wp-content/plugins/woocommerce/src/Blocks/Integrations/IntegrationRegistry.php(53): WC_OpenPix_Pix_Block->initialize()
+#3 /var/www/html/wp-includes/class-wp-hook.php(324): Automattic\WooCommerce\Blocks\Integrations\IntegrationRegistry->initialize('')
+#4 /var/www/html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#5 /var/www/html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#6 /var/www/html/wp-settings.php(727): do_action('init')
+#7 /var/www/html/wp-config.php(186): require_once('/var/www/html/w...')
+#8 /var/www/html/wp-load.php(50): require_once('/var/www/html/w...')
+#9 /var/www/html/wp-admin/admin.php(35): require_once('/var/www/html/w...')
+#10 /var/www/html/wp-admin/plugins.php(10): require_once('/var/www/html/w...')
+#11 {main}
+  thrown in /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/class-wc-openpix-pix.php on line 88
+[30-Jun-2025 14:27:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method OpenPixConfig::initialize() in /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/class-wc-openpix-pix.php:88
+Stack trace:
+#0 /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/class-wc-openpix-pix.php(59): WC_OpenPix_Pix_Gateway->__construct()
+#1 /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/class-wc-openpix-pix-block.php(13): WC_OpenPix_Pix_Gateway::instance()
+#2 /var/www/html/wp-content/plugins/woocommerce/src/Blocks/Integrations/IntegrationRegistry.php(53): WC_OpenPix_Pix_Block->initialize()
+#3 /var/www/html/wp-includes/class-wp-hook.php(324): Automattic\WooCommerce\Blocks\Integrations\IntegrationRegistry->initialize('')
+#4 /var/www/html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#5 /var/www/html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#6 /var/www/html/wp-settings.php(727): do_action('init')
+#7 /var/www/html/wp-config.php(186): require_once('/var/www/html/w...')
+#8 /var/www/html/wp-load.php(50): require_once('/var/www/html/w...')
+#9 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#10 /var/www/html/index.php(17): require('/var/www/html/w...')
+#11 {main}
+  thrown in /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/class-wc-openpix-pix.php on line 88
+[30-Jun-2025 14:27:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method OpenPixConfig::initialize() in /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/class-wc-openpix-pix.php:88
+Stack trace:
+#0 /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/class-wc-openpix-pix.php(59): WC_OpenPix_Pix_Gateway->__construct()
+#1 /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/class-wc-openpix-pix-block.php(13): WC_OpenPix_Pix_Gateway::instance()
+#2 /var/www/html/wp-content/plugins/woocommerce/src/Blocks/Integrations/IntegrationRegistry.php(53): WC_OpenPix_Pix_Block->initialize()
+#3 /var/www/html/wp-includes/class-wp-hook.php(324): Automattic\WooCommerce\Blocks\Integrations\IntegrationRegistry->initialize('')
+#4 /var/www/html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#5 /var/www/html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#6 /var/www/html/wp-settings.php(727): do_action('init')
+#7 /var/www/html/wp-config.php(186): require_once('/var/www/html/w...')
+#8 /var/www/html/wp-load.php(50): require_once('/var/www/html/w...')
+#9 /var/www/html/wp-admin/admin.php(35): require_once('/var/www/html/w...')
+#10 /var/www/html/wp-admin/plugins.php(10): require_once('/var/www/html/w...')
+#11 {main}
+  thrown in /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/class-wc-openpix-pix.php on line 88
+[30-Jun-2025 14:27:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method OpenPixConfig::initialize() in /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/class-wc-openpix-pix.php:88
+Stack trace:
+#0 /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/class-wc-openpix-pix.php(59): WC_OpenPix_Pix_Gateway->__construct()
+#1 /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/class-wc-openpix-pix-block.php(13): WC_OpenPix_Pix_Gateway::instance()
+#2 /var/www/html/wp-content/plugins/woocommerce/src/Blocks/Integrations/IntegrationRegistry.php(53): WC_OpenPix_Pix_Block->initialize()
+#3 /var/www/html/wp-includes/class-wp-hook.php(324): Automattic\WooCommerce\Blocks\Integrations\IntegrationRegistry->initialize('')
+#4 /var/www/html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#5 /var/www/html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#6 /var/www/html/wp-settings.php(727): do_action('init')
+#7 /var/www/html/wp-config.php(186): require_once('/var/www/html/w...')
+#8 /var/www/html/wp-load.php(50): require_once('/var/www/html/w...')
+#9 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#10 /var/www/html/index.php(17): require('/var/www/html/w...')
+#11 {main}
+  thrown in /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/class-wc-openpix-pix.php on line 88
+[30-Jun-2025 14:28:26 UTC] PHP Fatal error:  Uncaught Error: Class "OpenPixConfig" not found in /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/class-wc-openpix-pix.php:716
+Stack trace:
+#0 /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/class-wc-openpix-pix.php(78): WC_OpenPix_Pix_Gateway->init_form_fields()
+#1 /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/class-wc-openpix-pix.php(59): WC_OpenPix_Pix_Gateway->__construct()
+#2 /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/class-wc-openpix-pix-block.php(13): WC_OpenPix_Pix_Gateway::instance()
+#3 /var/www/html/wp-content/plugins/woocommerce/src/Blocks/Integrations/IntegrationRegistry.php(53): WC_OpenPix_Pix_Block->initialize()
+#4 /var/www/html/wp-includes/class-wp-hook.php(324): Automattic\WooCommerce\Blocks\Integrations\IntegrationRegistry->initialize('')
+#5 /var/www/html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#6 /var/www/html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#7 /var/www/html/wp-settings.php(727): do_action('init')
+#8 /var/www/html/wp-config.php(186): require_once('/var/www/html/w...')
+#9 /var/www/html/wp-load.php(50): require_once('/var/www/html/w...')
+#10 /var/www/html/wp-admin/admin.php(35): require_once('/var/www/html/w...')
+#11 /var/www/html/wp-admin/plugins.php(10): require_once('/var/www/html/w...')
+#12 {main}
+  thrown in /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/class-wc-openpix-pix.php on line 716
+[30-Jun-2025 14:28:26 UTC] PHP Fatal error:  Uncaught Error: Class "OpenPixConfig" not found in /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/class-wc-openpix-pix.php:716
+Stack trace:
+#0 /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/class-wc-openpix-pix.php(78): WC_OpenPix_Pix_Gateway->init_form_fields()
+#1 /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/class-wc-openpix-pix.php(59): WC_OpenPix_Pix_Gateway->__construct()
+#2 /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/class-wc-openpix-pix-block.php(13): WC_OpenPix_Pix_Gateway::instance()
+#3 /var/www/html/wp-content/plugins/woocommerce/src/Blocks/Integrations/IntegrationRegistry.php(53): WC_OpenPix_Pix_Block->initialize()
+#4 /var/www/html/wp-includes/class-wp-hook.php(324): Automattic\WooCommerce\Blocks\Integrations\IntegrationRegistry->initialize('')
+#5 /var/www/html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#6 /var/www/html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#7 /var/www/html/wp-settings.php(727): do_action('init')
+#8 /var/www/html/wp-config.php(186): require_once('/var/www/html/w...')
+#9 /var/www/html/wp-load.php(50): require_once('/var/www/html/w...')
+#10 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#11 /var/www/html/index.php(17): require('/var/www/html/w...')
+#12 {main}
+  thrown in /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/class-wc-openpix-pix.php on line 716
+[30-Jun-2025 14:59:11 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/config/config.php:10) in /var/www/html/wp-includes/functions.php on line 7168
+[30-Jun-2025 14:59:11 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/config/config.php:10) in /var/www/html/wp-includes/functions.php on line 7144
+[30-Jun-2025 14:59:11 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/config/config.php:10) in /var/www/html/wp-admin/admin-header.php on line 14
+[30-Jun-2025 14:59:15 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/config/config.php:10) in /var/www/html/wp-includes/rest-api/class-wp-rest-server.php on line 1896
+[30-Jun-2025 14:59:15 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/config/config.php:10) in /var/www/html/wp-includes/rest-api/class-wp-rest-server.php on line 1920
+[30-Jun-2025 14:59:15 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/config/config.php:10) in /var/www/html/wp-includes/rest-api/class-wp-rest-server.php on line 1896
+[30-Jun-2025 14:59:15 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/config/config.php:10) in /var/www/html/wp-includes/pluggable.php on line 1450
+[30-Jun-2025 14:59:15 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/config/config.php:10) in /var/www/html/wp-includes/pluggable.php on line 1453
+[30-Jun-2025 14:59:15 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/config/config.php:10) in /var/www/html/wp-includes/rest-api/class-wp-rest-server.php on line 1920
+[30-Jun-2025 14:59:15 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/config/config.php:10) in /var/www/html/wp-includes/rest-api/class-wp-rest-server.php on line 1896
+[30-Jun-2025 14:59:15 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/config/config.php:10) in /var/www/html/wp-includes/rest-api/class-wp-rest-server.php on line 1920
+[30-Jun-2025 15:13:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method OpenPixConfig::initialize() in /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/class-wc-openpix-pix.php:88
+Stack trace:
+#0 /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/class-wc-openpix-pix.php(59): WC_OpenPix_Pix_Gateway->__construct()
+#1 /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/class-wc-openpix-pix-block.php(13): WC_OpenPix_Pix_Gateway::instance()
+#2 /var/www/html/wp-content/plugins/woocommerce/src/Blocks/Integrations/IntegrationRegistry.php(53): WC_OpenPix_Pix_Block->initialize()
+#3 /var/www/html/wp-includes/class-wp-hook.php(324): Automattic\WooCommerce\Blocks\Integrations\IntegrationRegistry->initialize('')
+#4 /var/www/html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#5 /var/www/html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#6 /var/www/html/wp-settings.php(727): do_action('init')
+#7 /var/www/html/wp-config.php(186): require_once('/var/www/html/w...')
+#8 /var/www/html/wp-load.php(50): require_once('/var/www/html/w...')
+#9 /var/www/html/wp-admin/admin.php(35): require_once('/var/www/html/w...')
+#10 /var/www/html/wp-admin/index.php(10): require_once('/var/www/html/w...')
+#11 {main}
+  thrown in /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/class-wc-openpix-pix.php on line 88
+[30-Jun-2025 15:15:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method OpenPixConfig::initialize() in /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/class-wc-openpix-pix.php:88
+Stack trace:
+#0 /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/class-wc-openpix-pix.php(59): WC_OpenPix_Pix_Gateway->__construct()
+#1 /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/class-wc-openpix-pix-block.php(13): WC_OpenPix_Pix_Gateway::instance()
+#2 /var/www/html/wp-content/plugins/woocommerce/src/Blocks/Integrations/IntegrationRegistry.php(53): WC_OpenPix_Pix_Block->initialize()
+#3 /var/www/html/wp-includes/class-wp-hook.php(324): Automattic\WooCommerce\Blocks\Integrations\IntegrationRegistry->initialize('')
+#4 /var/www/html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#5 /var/www/html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#6 /var/www/html/wp-settings.php(727): do_action('init')
+#7 /var/www/html/wp-config.php(186): require_once('/var/www/html/w...')
+#8 /var/www/html/wp-load.php(50): require_once('/var/www/html/w...')
+#9 /var/www/html/wp-admin/admin.php(35): require_once('/var/www/html/w...')
+#10 /var/www/html/wp-admin/index.php(10): require_once('/var/www/html/w...')
+#11 {main}
+  thrown in /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/class-wc-openpix-pix.php on line 88
+[30-Jun-2025 15:15:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method OpenPixConfig::initialize() in /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/class-wc-openpix-pix.php:88
+Stack trace:
+#0 /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/class-wc-openpix-pix.php(59): WC_OpenPix_Pix_Gateway->__construct()
+#1 /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/class-wc-openpix-pix-block.php(13): WC_OpenPix_Pix_Gateway::instance()
+#2 /var/www/html/wp-content/plugins/woocommerce/src/Blocks/Integrations/IntegrationRegistry.php(53): WC_OpenPix_Pix_Block->initialize()
+#3 /var/www/html/wp-includes/class-wp-hook.php(324): Automattic\WooCommerce\Blocks\Integrations\IntegrationRegistry->initialize('')
+#4 /var/www/html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#5 /var/www/html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#6 /var/www/html/wp-settings.php(727): do_action('init')
+#7 /var/www/html/wp-config.php(186): require_once('/var/www/html/w...')
+#8 /var/www/html/wp-load.php(50): require_once('/var/www/html/w...')
+#9 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#10 /var/www/html/index.php(17): require('/var/www/html/w...')
+#11 {main}
+  thrown in /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/class-wc-openpix-pix.php on line 88
+[30-Jun-2025 15:15:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method OpenPixConfig::initialize() in /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/class-wc-openpix-pix.php:88
+Stack trace:
+#0 /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/class-wc-openpix-pix.php(59): WC_OpenPix_Pix_Gateway->__construct()
+#1 /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/class-wc-openpix-pix-block.php(13): WC_OpenPix_Pix_Gateway::instance()
+#2 /var/www/html/wp-content/plugins/woocommerce/src/Blocks/Integrations/IntegrationRegistry.php(53): WC_OpenPix_Pix_Block->initialize()
+#3 /var/www/html/wp-includes/class-wp-hook.php(324): Automattic\WooCommerce\Blocks\Integrations\IntegrationRegistry->initialize('')
+#4 /var/www/html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#5 /var/www/html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#6 /var/www/html/wp-settings.php(727): do_action('init')
+#7 /var/www/html/wp-config.php(186): require_once('/var/www/html/w...')
+#8 /var/www/html/wp-load.php(50): require_once('/var/www/html/w...')
+#9 /var/www/html/wp-admin/admin.php(35): require_once('/var/www/html/w...')
+#10 /var/www/html/wp-admin/index.php(10): require_once('/var/www/html/w...')
+#11 {main}
+  thrown in /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/class-wc-openpix-pix.php on line 88
+[30-Jun-2025 15:15:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method OpenPixConfig::initialize() in /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/class-wc-openpix-pix.php:88
+Stack trace:
+#0 /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/class-wc-openpix-pix.php(59): WC_OpenPix_Pix_Gateway->__construct()
+#1 /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/class-wc-openpix-pix-block.php(13): WC_OpenPix_Pix_Gateway::instance()
+#2 /var/www/html/wp-content/plugins/woocommerce/src/Blocks/Integrations/IntegrationRegistry.php(53): WC_OpenPix_Pix_Block->initialize()
+#3 /var/www/html/wp-includes/class-wp-hook.php(324): Automattic\WooCommerce\Blocks\Integrations\IntegrationRegistry->initialize('')
+#4 /var/www/html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#5 /var/www/html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#6 /var/www/html/wp-settings.php(727): do_action('init')
+#7 /var/www/html/wp-config.php(186): require_once('/var/www/html/w...')
+#8 /var/www/html/wp-load.php(50): require_once('/var/www/html/w...')
+#9 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#10 /var/www/html/index.php(17): require('/var/www/html/w...')
+#11 {main}
+  thrown in /var/www/html/wp-content/plugins/openpix-for-woocommerce/includes/class-wc-openpix-pix.php on line 88
+[30-Jun-2025 16:03:53 UTC] Automatic updates starting...
+[30-Jun-2025 16:03:53 UTC]   Automatic plugin updates starting...
+[30-Jun-2025 16:03:53 UTC]   Automatic plugin updates complete.
+[30-Jun-2025 16:03:53 UTC]   Automatic theme updates starting...
+[30-Jun-2025 16:03:53 UTC]   Automatic theme updates complete.
+[30-Jun-2025 16:03:53 UTC] Automatic updates complete.
+[30-Jun-2025 16:04:06 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(ORDER BY date_created_gmt) AS order_rank,
+					date_created_gmt AS order_create' at line 3 for query SELECT
+					id,
+					row_number() OVER (ORDER BY date_created_gmt) AS order_rank,
+					date_created_gmt AS order_created_at,
+					date_updated_gmt AS order_updated_at,
+					currency,
+					total_amount,
+					payment_method,
+					payment_method_title
+				FROM wp_wc_orders
+				WHERE
+					type = 'shop_order'
+					AND status IN ('wc-completed', 'wc-refunded')
+				ORDER BY date_created_gmt ASC
+				LIMIT 20; made by do_action_ref_array('woocommerce_tracker_send_event'), WP_Hook->do_action, WP_Hook->apply_filters, WC_Tracker::send_tracking_data, WC_Tracker::get_tracking_data, WC_Tracker::get_order_snapshot, WC_Tracker::get_order_data
+[30-Jun-2025 16:04:06 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(ORDER BY date_created_gmt) AS order_rank,
+					date_created_gmt AS order_create' at line 3 for query SELECT
+					id,
+					row_number() OVER (ORDER BY date_created_gmt) AS order_rank,
+					date_created_gmt AS order_created_at,
+					date_updated_gmt AS order_updated_at,
+					currency,
+					total_amount,
+					payment_method,
+					payment_method_title
+				FROM wp_wc_orders
+				WHERE
+					type = 'shop_order'
+					AND status IN ('wc-completed', 'wc-refunded')
+				ORDER BY date_created_gmt DESC
+				LIMIT 20; made by do_action_ref_array('woocommerce_tracker_send_event'), WP_Hook->do_action, WP_Hook->apply_filters, WC_Tracker::send_tracking_data, WC_Tracker::get_tracking_data, WC_Tracker::get_order_snapshot, WC_Tracker::get_order_data
+[30-Jun-2025 18:58:48 UTC] PHP Warning:  chmod(): Operation not permitted in /var/www/html/wp-admin/includes/class-wp-filesystem-direct.php on line 173
+[02-Dec-2025 01:14:50 UTC] PHP Warning:  Undefined array key "pix" in /var/www/html/wp-content/plugins/woocommerce-openpix/includes/class-wc-openpix-pix.php on line 481
+[02-Dec-2025 01:14:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /var/www/html/wp-content/plugins/woocommerce-openpix/includes/class-wc-openpix-pix.php on line 481
+[02-Dec-2025 01:53:51 UTC] PHP Warning:  Undefined array key "pix" in /var/www/html/wp-content/plugins/woocommerce-openpix/includes/class-wc-openpix-pix.php on line 481
+[02-Dec-2025 01:53:51 UTC] PHP Warning:  Trying to access array offset on value of type null in /var/www/html/wp-content/plugins/woocommerce-openpix/includes/class-wc-openpix-pix.php on line 481
+[02-Dec-2025 02:00:17 UTC] PHP Warning:  Undefined array key "pix" in /var/www/html/wp-content/plugins/woocommerce-openpix/includes/class-wc-openpix-pix.php on line 481
+[02-Dec-2025 02:00:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /var/www/html/wp-content/plugins/woocommerce-openpix/includes/class-wc-openpix-pix.php on line 481
+[11-Feb-2026 15:45:38 UTC] PHP Fatal error:  Uncaught Error: Cannot access private property WC_OpenPix_Pix_Gateway::$environment in Command line code:10
+Stack trace:
+#0 {main}
+  thrown in Command line code on line 10
+[11-Feb-2026 15:48:54 UTC] PHP Fatal error:  Uncaught Error: Call to protected method WC_Payment_Gateway::get_order_total() from global scope in Command line code:10
+Stack trace:
+#0 {main}
+  thrown in Command line code on line 10
+[11-Feb-2026 16:02:15 UTC] [OPENPIX_DEBUG] process_payment called for order 90
+[11-Feb-2026 16:02:15 UTC] [OPENPIX_DEBUG] cart_total=4 total_cents=400
+[11-Feb-2026 16:02:15 UTC] [OPENPIX_DEBUG] appID=Q2xpZW50X0lkX2QzZDNh...
+[11-Feb-2026 16:02:15 UTC] [OPENPIX_DEBUG] url=https://api.openpix.com.br/api/v1/charge
+[11-Feb-2026 16:02:15 UTC] [OPENPIX_DEBUG] API call made
+[11-Feb-2026 16:02:15 UTC] [OPENPIX_DEBUG] HTTP Code: 401
+[11-Feb-2026 16:02:15 UTC] [OPENPIX_DEBUG] Response body: {"data":null,"errors":[{"message":"appID inválido"}]}
+[11-Feb-2026 16:02:15 UTC] [OPENPIX_CHECKOUT] Status: 400
+[11-Feb-2026 16:02:15 UTC] [OPENPIX_CHECKOUT] Response: {"order_id":90,"status":"pending","order_key":"wc_order_pZAS0Vz09PXCv","order_number":"90","customer_note":"","customer_id":1,"billing_address":{"first_name":"H\u00e1llex","last_name":"COsta 2","company":"","address_1":"Teste","address_2":"","city":"Ara\u00e7atuba","state":"SP","postcode":"16021-305","country":"BR","email":"hallex@entria.com.br","phone":"55219891055"},"shipping_address":{"first_name":"H\u00e1llex","last_name":"COsta 2","company":"","address_1":"Teste","address_2":"","city":"Ara\u00e7atuba","state":"SP","postcode":"16021-305","country":"BR","phone":"55219891055"},"payment_method":"woocommerce_openpix_pix","payment_result":{"payment_status":"failure","payment_details":[{"key":"result","value":"fail"}],"redirect_url":""},"additional_fields":{},"__experimentalCart":null,"extensions":{}}
+[11-Feb-2026 16:02:15 UTC] [OPENPIX_CHECKOUT_DEBUG] Route: /wc/store/v1/checkout
+[11-Feb-2026 16:02:15 UTC] [OPENPIX_CHECKOUT_DEBUG] Status: 400
+[11-Feb-2026 16:02:15 UTC] [OPENPIX_CHECKOUT_DEBUG] Response: {"order_id":90,"status":"pending","order_key":"wc_order_pZAS0Vz09PXCv","order_number":"90","customer_note":"","customer_id":1,"billing_address":{"first_name":"H\u00e1llex","last_name":"COsta 2","company":"","address_1":"Teste","address_2":"","city":"Ara\u00e7atuba","state":"SP","postcode":"16021-305","country":"BR","email":"hallex@entria.com.br","phone":"55219891055"},"shipping_address":{"first_name":"H\u00e1llex","last_name":"COsta 2","company":"","address_1":"Teste","address_2":"","city":"Ara\u00e7atuba","state":"SP","postcode":"16021-305","country":"BR","phone":"55219891055"},"payment_method":"woocommerce_openpix_pix","payment_result":{"payment_status":"failure","payment_details":[{"key":"result","value":"fail"}],"redirect_url":""},"additional_fields":{},"__experimentalCart":null,"extensions":{}}
+[11-Feb-2026 16:02:15 UTC] [OPENPIX_CHECKOUT_DEBUG] Request body: {"additional_fields":{},"billing_address":{"first_name":"Hállex","last_name":"COsta 2","company":"","address_1":"Teste","address_2":"","city":"Araçatuba","state":"SP","postcode":"16021-305","country":"BR","email":"hallex@entria.com.br","phone":"55219891055"},"create_account":false,"customer_note":"","customer_password":"","extensions":{"woocommerce/order-attribution":{"source_type":"typein","referrer":"(none)","utm_campaign":"(none)","utm_source":"(direct)","utm_medium":"(none)","utm_content":"(none)","utm_id":"(none)","utm_term":"(none)","utm_source_platform":"(none)","utm_creative_format":"(none)","utm_marketing_tactic":"(none)","session_entry":"http://localhost:3001/","session_start_time":"2026-02-01 00:24:07","session_pages":"4","session_count":"6","user_agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}},"payment_method":"woocommerce_openpix_pix","payment_data":[{"key":"wc-woocommerce_openpix_pix-new-payment-method","value":false}]}
+[11-Feb-2026 16:02:24 UTC] [OPENPIX_DEBUG] process_payment called for order 90
+[11-Feb-2026 16:02:24 UTC] [OPENPIX_DEBUG] cart_total=4 total_cents=400
+[11-Feb-2026 16:02:24 UTC] [OPENPIX_DEBUG] appID=Q2xpZW50X0lkX2QzZDNh...
+[11-Feb-2026 16:02:24 UTC] [OPENPIX_DEBUG] url=https://api.openpix.com.br/api/v1/charge
+[11-Feb-2026 16:02:24 UTC] [OPENPIX_DEBUG] API call made
+[11-Feb-2026 16:02:24 UTC] [OPENPIX_DEBUG] HTTP Code: 401
+[11-Feb-2026 16:02:24 UTC] [OPENPIX_DEBUG] Response body: {"data":null,"errors":[{"message":"appID inválido"}]}
+[11-Feb-2026 16:02:24 UTC] [OPENPIX_CHECKOUT] Status: 400
+[11-Feb-2026 16:02:24 UTC] [OPENPIX_CHECKOUT] Response: {"order_id":90,"status":"pending","order_key":"wc_order_pZAS0Vz09PXCv","order_number":"90","customer_note":"","customer_id":1,"billing_address":{"first_name":"H\u00e1llex","last_name":"COsta 2","company":"","address_1":"Teste","address_2":"","city":"Ara\u00e7atuba","state":"SP","postcode":"16021-305","country":"BR","email":"hallex@entria.com.br","phone":"55219891055"},"shipping_address":{"first_name":"H\u00e1llex","last_name":"COsta 2","company":"","address_1":"Teste","address_2":"","city":"Ara\u00e7atuba","state":"SP","postcode":"16021-305","country":"BR","phone":"55219891055"},"payment_method":"woocommerce_openpix_pix","payment_result":{"payment_status":"failure","payment_details":[{"key":"result","value":"fail"}],"redirect_url":""},"additional_fields":{},"__experimentalCart":null,"extensions":{}}
+[11-Feb-2026 16:02:24 UTC] [OPENPIX_CHECKOUT_DEBUG] Route: /wc/store/v1/checkout
+[11-Feb-2026 16:02:24 UTC] [OPENPIX_CHECKOUT_DEBUG] Status: 400
+[11-Feb-2026 16:02:24 UTC] [OPENPIX_CHECKOUT_DEBUG] Response: {"order_id":90,"status":"pending","order_key":"wc_order_pZAS0Vz09PXCv","order_number":"90","customer_note":"","customer_id":1,"billing_address":{"first_name":"H\u00e1llex","last_name":"COsta 2","company":"","address_1":"Teste","address_2":"","city":"Ara\u00e7atuba","state":"SP","postcode":"16021-305","country":"BR","email":"hallex@entria.com.br","phone":"55219891055"},"shipping_address":{"first_name":"H\u00e1llex","last_name":"COsta 2","company":"","address_1":"Teste","address_2":"","city":"Ara\u00e7atuba","state":"SP","postcode":"16021-305","country":"BR","phone":"55219891055"},"payment_method":"woocommerce_openpix_pix","payment_result":{"payment_status":"failure","payment_details":[{"key":"result","value":"fail"}],"redirect_url":""},"additional_fields":{},"__experimentalCart":null,"extensions":{}}
+[11-Feb-2026 16:02:24 UTC] [OPENPIX_CHECKOUT_DEBUG] Request body: {"additional_fields":{},"billing_address":{"first_name":"Hállex","last_name":"COsta 2","company":"","address_1":"Teste","address_2":"","city":"Araçatuba","state":"SP","postcode":"16021-305","country":"BR","email":"hallex@entria.com.br","phone":"55219891055"},"create_account":false,"customer_note":"","customer_password":"","extensions":{"woocommerce/order-attribution":{"source_type":"typein","referrer":"(none)","utm_campaign":"(none)","utm_source":"(direct)","utm_medium":"(none)","utm_content":"(none)","utm_id":"(none)","utm_term":"(none)","utm_source_platform":"(none)","utm_creative_format":"(none)","utm_marketing_tactic":"(none)","session_entry":"http://localhost:3001/","session_start_time":"2026-02-01 00:24:07","session_pages":"6","session_count":"6","user_agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}},"payment_method":"woocommerce_openpix_pix","payment_data":[{"key":"wc-woocommerce_openpix_pix-new-payment-method","value":false}]}
+[11-Feb-2026 16:02:42 UTC] [OPENPIX_DEBUG] process_payment called for order 90
+[11-Feb-2026 16:02:42 UTC] [OPENPIX_DEBUG] cart_total=4 total_cents=400
+[11-Feb-2026 16:02:42 UTC] [OPENPIX_DEBUG] appID=Q2xpZW50X0lkX2QzZDNh...
+[11-Feb-2026 16:02:42 UTC] [OPENPIX_DEBUG] url=https://api.openpix.com.br/api/v1/charge
+[11-Feb-2026 16:02:42 UTC] [OPENPIX_DEBUG] API call made
+[11-Feb-2026 16:02:42 UTC] [OPENPIX_DEBUG] HTTP Code: 401
+[11-Feb-2026 16:02:42 UTC] [OPENPIX_DEBUG] Response body: {"data":null,"errors":[{"message":"appID inválido"}]}
+[11-Feb-2026 16:02:42 UTC] [OPENPIX_CHECKOUT] Status: 400
+[11-Feb-2026 16:02:42 UTC] [OPENPIX_CHECKOUT] Response: {"order_id":90,"status":"pending","order_key":"wc_order_pZAS0Vz09PXCv","order_number":"90","customer_note":"","customer_id":1,"billing_address":{"first_name":"H\u00e1llex","last_name":"COsta 2","company":"","address_1":"Teste","address_2":"","city":"Ara\u00e7atuba","state":"SP","postcode":"16021-305","country":"BR","email":"hallex@entria.com.br","phone":"55219891055"},"shipping_address":{"first_name":"H\u00e1llex","last_name":"COsta 2","company":"","address_1":"Teste","address_2":"","city":"Ara\u00e7atuba","state":"SP","postcode":"16021-305","country":"BR","phone":"55219891055"},"payment_method":"woocommerce_openpix_pix","payment_result":{"payment_status":"failure","payment_details":[{"key":"result","value":"fail"}],"redirect_url":""},"additional_fields":{},"__experimentalCart":null,"extensions":{}}
+[11-Feb-2026 16:02:42 UTC] [OPENPIX_CHECKOUT_DEBUG] Route: /wc/store/v1/checkout
+[11-Feb-2026 16:02:42 UTC] [OPENPIX_CHECKOUT_DEBUG] Status: 400
+[11-Feb-2026 16:02:42 UTC] [OPENPIX_CHECKOUT_DEBUG] Response: {"order_id":90,"status":"pending","order_key":"wc_order_pZAS0Vz09PXCv","order_number":"90","customer_note":"","customer_id":1,"billing_address":{"first_name":"H\u00e1llex","last_name":"COsta 2","company":"","address_1":"Teste","address_2":"","city":"Ara\u00e7atuba","state":"SP","postcode":"16021-305","country":"BR","email":"hallex@entria.com.br","phone":"55219891055"},"shipping_address":{"first_name":"H\u00e1llex","last_name":"COsta 2","company":"","address_1":"Teste","address_2":"","city":"Ara\u00e7atuba","state":"SP","postcode":"16021-305","country":"BR","phone":"55219891055"},"payment_method":"woocommerce_openpix_pix","payment_result":{"payment_status":"failure","payment_details":[{"key":"result","value":"fail"}],"redirect_url":""},"additional_fields":{},"__experimentalCart":null,"extensions":{}}
+[11-Feb-2026 16:02:42 UTC] [OPENPIX_CHECKOUT_DEBUG] Request body: {"additional_fields":{},"billing_address":{"first_name":"Hállex","last_name":"COsta 2","company":"","address_1":"Teste","address_2":"","city":"Araçatuba","state":"SP","postcode":"16021-305","country":"BR","email":"hallex@entria.com.br","phone":"55219891055"},"create_account":false,"customer_note":"","customer_password":"","extensions":{"woocommerce/order-attribution":{"source_type":"typein","referrer":"(none)","utm_campaign":"(none)","utm_source":"(direct)","utm_medium":"(none)","utm_content":"(none)","utm_id":"(none)","utm_term":"(none)","utm_source_platform":"(none)","utm_creative_format":"(none)","utm_marketing_tactic":"(none)","session_entry":"http://localhost:3001/","session_start_time":"2026-02-01 00:24:07","session_pages":"8","session_count":"6","user_agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}},"payment_method":"woocommerce_openpix_pix","payment_data":[{"key":"wc-woocommerce_openpix_pix-new-payment-method","value":false}]}
+[11-Feb-2026 16:03:14 UTC] [OPENPIX_DEBUG] process_payment called for order 91
+[11-Feb-2026 16:03:14 UTC] [OPENPIX_DEBUG] cart_total=6 total_cents=600
+[11-Feb-2026 16:03:14 UTC] [OPENPIX_DEBUG] appID=Q2xpZW50X0lkX2QzZDNh...
+[11-Feb-2026 16:03:14 UTC] [OPENPIX_DEBUG] url=https://api.openpix.com.br/api/v1/charge
+[11-Feb-2026 16:03:14 UTC] [OPENPIX_DEBUG] API call made
+[11-Feb-2026 16:03:14 UTC] [OPENPIX_DEBUG] HTTP Code: 401
+[11-Feb-2026 16:03:14 UTC] [OPENPIX_DEBUG] Response body: {"data":null,"errors":[{"message":"appID inválido"}]}
+[11-Feb-2026 16:03:14 UTC] [OPENPIX_CHECKOUT] Status: 400
+[11-Feb-2026 16:03:14 UTC] [OPENPIX_CHECKOUT] Response: {"order_id":91,"status":"pending","order_key":"wc_order_UVDW8zTHUdeI7","order_number":"91","customer_note":"","customer_id":1,"billing_address":{"first_name":"H\u00e1llex","last_name":"COsta 2","company":"","address_1":"Teste","address_2":"","city":"Ara\u00e7atuba","state":"SP","postcode":"16021-305","country":"BR","email":"hallex@entria.com.br","phone":"55219891055"},"shipping_address":{"first_name":"H\u00e1llex","last_name":"COsta 2","company":"","address_1":"Teste","address_2":"","city":"Ara\u00e7atuba","state":"SP","postcode":"16021-305","country":"BR","phone":"55219891055"},"payment_method":"woocommerce_openpix_pix","payment_result":{"payment_status":"failure","payment_details":[{"key":"result","value":"fail"}],"redirect_url":""},"additional_fields":{},"__experimentalCart":null,"extensions":{}}
+[11-Feb-2026 16:03:14 UTC] [OPENPIX_CHECKOUT_DEBUG] Route: /wc/store/v1/checkout
+[11-Feb-2026 16:03:14 UTC] [OPENPIX_CHECKOUT_DEBUG] Status: 400
+[11-Feb-2026 16:03:14 UTC] [OPENPIX_CHECKOUT_DEBUG] Response: {"order_id":91,"status":"pending","order_key":"wc_order_UVDW8zTHUdeI7","order_number":"91","customer_note":"","customer_id":1,"billing_address":{"first_name":"H\u00e1llex","last_name":"COsta 2","company":"","address_1":"Teste","address_2":"","city":"Ara\u00e7atuba","state":"SP","postcode":"16021-305","country":"BR","email":"hallex@entria.com.br","phone":"55219891055"},"shipping_address":{"first_name":"H\u00e1llex","last_name":"COsta 2","company":"","address_1":"Teste","address_2":"","city":"Ara\u00e7atuba","state":"SP","postcode":"16021-305","country":"BR","phone":"55219891055"},"payment_method":"woocommerce_openpix_pix","payment_result":{"payment_status":"failure","payment_details":[{"key":"result","value":"fail"}],"redirect_url":""},"additional_fields":{},"__experimentalCart":null,"extensions":{}}
+[11-Feb-2026 16:03:14 UTC] [OPENPIX_CHECKOUT_DEBUG] Request body: {"additional_fields":{},"billing_address":{"first_name":"Hállex","last_name":"COsta 2","company":"","address_1":"Teste","address_2":"","city":"Araçatuba","state":"SP","postcode":"16021-305","country":"BR","email":"hallex@entria.com.br","phone":"55219891055"},"create_account":false,"customer_note":"","customer_password":"","extensions":{"woocommerce/order-attribution":{"source_type":"typein","referrer":"(none)","utm_campaign":"(none)","utm_source":"(direct)","utm_medium":"(none)","utm_content":"(none)","utm_id":"(none)","utm_term":"(none)","utm_source_platform":"(none)","utm_creative_format":"(none)","utm_marketing_tactic":"(none)","session_entry":"http://localhost:3001/","session_start_time":"2026-02-01 00:24:07","session_pages":"14","session_count":"6","user_agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}},"payment_method":"woocommerce_openpix_pix","payment_data":[{"key":"wc-woocommerce_openpix_pix-new-payment-method","value":false}]}
+[11-Feb-2026 16:10:08 UTC] PHP Warning:  file_put_contents(/tmp/checkout-debug.log): Failed to open stream: Permission denied in /var/www/html/wp-content/mu-plugins/openpix-debug.php on line 5
+[11-Feb-2026 16:10:08 UTC] PHP Warning:  file_put_contents(/tmp/checkout-debug.log): Failed to open stream: Permission denied in /var/www/html/wp-content/mu-plugins/openpix-debug.php on line 6
+[11-Feb-2026 16:10:08 UTC] [OPENPIX_CHECKOUT_DEBUG] Route: /wc/store/v1/checkout
+[11-Feb-2026 16:10:08 UTC] [OPENPIX_CHECKOUT_DEBUG] Status: 400
+[11-Feb-2026 16:10:08 UTC] [OPENPIX_CHECKOUT_DEBUG] Response: {"order_id":91,"status":"pending","order_key":"wc_order_UVDW8zTHUdeI7","order_number":"91","customer_note":"","customer_id":1,"billing_address":{"first_name":"H\u00e1llex","last_name":"COsta 2","company":"","address_1":"Teste","address_2":"","city":"Ara\u00e7atuba","state":"SP","postcode":"16021-305","country":"BR","email":"hallex@entria.com.br","phone":"55219891055"},"shipping_address":{"first_name":"H\u00e1llex","last_name":"COsta 2","company":"","address_1":"Teste","address_2":"","city":"Ara\u00e7atuba","state":"SP","postcode":"16021-305","country":"BR","phone":"55219891055"},"payment_method":"woocommerce_openpix_pix","payment_result":{"payment_status":"failure","payment_details":[{"key":"result","value":"fail"}],"redirect_url":""},"additional_fields":{},"__experimentalCart":null,"extensions":{}}
+[11-Feb-2026 16:10:08 UTC] [OPENPIX_CHECKOUT_DEBUG] Request body: {"additional_fields":{},"billing_address":{"first_name":"Hállex","last_name":"COsta 2","company":"","address_1":"Teste","address_2":"","city":"Araçatuba","state":"SP","postcode":"16021-305","country":"BR","email":"hallex@entria.com.br","phone":"55219891055"},"create_account":false,"customer_note":"","customer_password":"","extensions":{"woocommerce/order-attribution":{"source_type":"typein","referrer":"(none)","utm_campaign":"(none)","utm_source":"(direct)","utm_medium":"(none)","utm_content":"(none)","utm_id":"(none)","utm_term":"(none)","utm_source_platform":"(none)","utm_creative_format":"(none)","utm_marketing_tactic":"(none)","session_entry":"http://localhost:3001/","session_start_time":"2026-02-01 00:24:07","session_pages":"17","session_count":"6","user_agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"}},"payment_method":"woocommerce_openpix_pix","payment_data":[{"key":"wc-woocommerce_openpix_pix-new-payment-method","value":false}]}
+[11-Feb-2026 16:21:29 UTC] PHP Warning:  file_put_contents(/tmp/checkout-debug.log): Failed to open stream: Permission denied in /var/www/html/wp-content/mu-plugins/openpix-debug.php on line 5
+[11-Feb-2026 16:21:29 UTC] PHP Warning:  file_put_contents(/tmp/checkout-debug.log): Failed to open stream: Permission denied in /var/www/html/wp-content/mu-plugins/openpix-debug.php on line 6
+[11-Feb-2026 16:36:07 UTC] PHP Warning:  file_put_contents(/tmp/checkout-debug.log): Failed to open stream: Permission denied in /var/www/html/wp-content/mu-plugins/openpix-debug.php on line 5
+[11-Feb-2026 16:36:07 UTC] PHP Warning:  file_put_contents(/tmp/checkout-debug.log): Failed to open stream: Permission denied in /var/www/html/wp-content/mu-plugins/openpix-debug.php on line 6
+[11-Feb-2026 16:36:32 UTC] PHP Warning:  file_put_contents(/tmp/checkout-debug.log): Failed to open stream: Permission denied in /var/www/html/wp-content/mu-plugins/openpix-debug.php on line 5
+[11-Feb-2026 16:36:32 UTC] PHP Warning:  file_put_contents(/tmp/checkout-debug.log): Failed to open stream: Permission denied in /var/www/html/wp-content/mu-plugins/openpix-debug.php on line 6
+[11-Feb-2026 16:38:10 UTC] PHP Warning:  file_put_contents(/tmp/checkout-debug.log): Failed to open stream: Permission denied in /var/www/html/wp-content/mu-plugins/openpix-debug.php on line 5
+[11-Feb-2026 16:38:10 UTC] PHP Warning:  file_put_contents(/tmp/checkout-debug.log): Failed to open stream: Permission denied in /var/www/html/wp-content/mu-plugins/openpix-debug.php on line 6
+[11-Feb-2026 16:42:52 UTC] PHP Warning:  file_put_contents(/tmp/checkout-debug.log): Failed to open stream: Permission denied in /var/www/html/wp-content/mu-plugins/openpix-debug.php on line 5
+[11-Feb-2026 16:42:52 UTC] PHP Warning:  file_put_contents(/tmp/checkout-debug.log): Failed to open stream: Permission denied in /var/www/html/wp-content/mu-plugins/openpix-debug.php on line 6
+[11-Feb-2026 16:42:57 UTC] PHP Warning:  file_put_contents(/tmp/checkout-debug.log): Failed to open stream: Permission denied in /var/www/html/wp-content/mu-plugins/openpix-debug.php on line 5
+[11-Feb-2026 16:42:57 UTC] PHP Warning:  file_put_contents(/tmp/checkout-debug.log): Failed to open stream: Permission denied in /var/www/html/wp-content/mu-plugins/openpix-debug.php on line 6
+[18-Feb-2026 21:39:01 UTC] PHP Fatal error:  Cannot redeclare woocommerce_openpix_init() (previously declared in /var/www/html/wp-content/plugins/openpix-for-woocommerce/openpix-for-woocommerce.php:58) in /var/www/html/wp-content/plugins/woocommerce-openpix/openpix-for-woocommerce.php on line 58
